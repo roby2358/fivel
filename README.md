@@ -2,6 +2,16 @@
 
 This is a toy! There are no promises and no guarantees associated with this project!
 
+## Notes
+
+Some of the tables are broken after I enabled MCP. Will fix as I go.
+
+In order to refresh the tables in Claude Desktop, you need to rebuild the jar, then choose
+
+`hamburger -> File -> Exit`
+
+to exit Claude Desktop all the way.
+
 # Running
 
 ## Run as webapp + HTTP server

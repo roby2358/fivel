@@ -26,7 +26,7 @@ ThisBuild / scalacOptions ++= Seq(
 val commonDependencies = Seq(
   "org.slf4j" % "slf4j-api" % "2.0.17",
   "ch.qos.logback" % "logback-classic" % "1.5.18",
-  "jakarta.servlet" % "jakarta.servlet-api" % "6.1.0" % Provided,
+  "jakarta.servlet" % "jakarta.servlet-api" % "6.1.0",
   "com.fasterxml.jackson.core" % "jackson-core" % "2.19.0",
   "com.fasterxml.jackson.core" % "jackson-databind" % "2.19.0",
   "com.fasterxml.jackson.module" %% "jackson-module-scala" % "2.19.0",

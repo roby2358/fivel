@@ -17,7 +17,9 @@ to exit Claude Desktop all the way.
 ## Run as webapp + HTTP server
 
 From the command line
-    sbt run
+```sh
+sbt "runMain yuwakisa.fivel.ServerMain"
+```
 
 In your browser, open
     http://localhost:8000

@@ -1,0 +1,7 @@
+= Story Beats Meta
+  mystery
+  choice
+  challenge
+  resolution
+  reveal
+  storytelling

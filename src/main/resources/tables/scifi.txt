@@ -1,0 +1,228 @@
+= SciFi Title
+  - The {|fantasy subject} of {SciFi} and {SciFi}
+  - {SciFi} of the {SciFi} {|fantasy subject}
+  - {SciFi}, {|fantasy subject} and {SciFi}
+  - {SciFi} and the {|fantasy subject}
+  - {|fantasy subject} of {SciFi} and the {|fantasy subject}
+= SciFi Fantasy Threat
+  - Know: {|know} {|fantasy subject} of {SciFi}
+  - Have: {|have} {|fantasy subject} of {SciFi}
+  - Where: {|where} {|fantasy subject} of {SciFi}
+  - Who: {|who} {|fantasy subject} of {SciFi}
+  - Can do: {|can} {|fantasy subject} of {SciFi}
+= SciFi Threat
+  - Know: {|know} {SciFi}
+  - Have: {|have} {SciFi}
+  - Where: {|where} {SciFi}
+  - Who: {|who} {SciFi}
+  - Can do: {|can} {SciFi}
+= Sci Fi What If
+#  What if [challenge universal truth] and therefore [character motivation]
+  What if {SciFi} and therefore MC must {threat}
+  What if {SciFi} is real? {transitions} MC must {threat}
+  What if {SciFi} is real? {transitions} MC must {scifi threat}
+  What if there is {SciFi} because of {SciFi}? {transitions} MC must {scifi threat}
+= SciFi Chimera
+  3 {SciFi} - {SciFi}
+  1 {SciFi} - {SciFi} - {SciFi}
+= SciFi
+  Advanced legal personalities
+  Advertising
+  Antihumanism
+    Cultural
+    Philosophical
+    Posthuman condition
+    Posthuman transhumanism
+    AI takeover
+    Voluntary Human Extinction
+  Algorithmic government
+  Aliens
+  Alien abduction
+  Alien artifacts
+  Alien communications
+  Alien invasion
+  Alternative histories
+  Ancient astronauts
+  Anthropocene
+  Anthropocentrism
+  Apocolypse
+  Arcologies
+  Art
+  Artificial gravity
+  Artificial intelligence
+  Artificial life
+  Artificial organs
+  Artificial worlds
+  Asteroid mining
+  Astrobiology
+  Autonomous cars
+  Battle armor
+  Bio-terrorism
+  Biohacking
+  Biotechnology
+  Biological robot
+  Beauty
+  Black holes
+  Black hole harvesting
+  Brain washing
+  Brain-computer interface
+  Climate change
+  Cloacking device
+  Cloning
+  Cognitive liberty
+  Creativity
+  Cryonics
+  Culture clash
+  Cyberspace
+  Cyborgs
+  Death
+  Dead planets
+  Deep sea monsters
+  Deep sea exploration
+  Digital immortality
+  Dinosaurs
+  Domed habitat
+  Dying planets
+  Dyson sphere
+  Dystopia
+  Eco-terrorism
+  Elderly care
+  Embryo space colonization
+  Enhanced senses
+  Environmental crisis
+  Evolution
+  Faster than light communication
+  Faster than light travel
+  Fictional worlds
+  Floating city
+  Galactic empires
+  Gender
+  Genetic manipulation
+  Humanoid robots
+  Humour
+  Hyper-intelligent animals
+  Immortality
+  Infomorphs
+  Instantaneous travel
+  Instantaneous communication
+  Invisibility
+  Intelligent plants
+  Interplanetary warfare
+  Interstellar exploration
+  Interstellar warfare
+  Interweb
+  Generation ships
+  Group mind
+  Hive minds
+  Hyper-intelligence
+  Killer robots
+  Language
+  Lasers
+  Laughter
+  Life extension
+  Living planets
+  Lost worlds
+  Mechs
+  Megacity
+  Megacorporation
+  Memory manipulation
+  Memory sharing
+  Mental control
+  Mind swap
+  Mind upload
+  Mining
+  Molecular manufacturing
+  Music
+  Mutants
+  Nanobots
+  Planetary romance
+  Sleeper ship
+  Social structure
+    Adhocracy
+    Anarcho-capitalism
+    Evil corporation
+    Hypercapitalism
+    Megacorpratism
+    Neo-feudalism
+    Post-scarcity
+    Security state
+    Communalism variants
+    Totalitarianism
+    Techno-anarchy
+  Star mining
+  Nuclear Apocalypse
+  Ocean colonization
+  Organlegging (organ bootlegging)
+  Parallel universes
+  Parasitism
+  Planetary media
+  Planetary engineering
+  Planetary evolution
+  Pollution
+  Prosthetics
+  Psionics: {psionics}
+  Psychedelia
+  Transcendent philosophy
+  Posthumanism
+  Progressor
+  Pulsars
+  Radiation pollution
+  Religion
+  Reproduction
+  Resizing magnification
+  Resizing miniaturization
+  Resizing transcendence
+  Robots
+  Seeder
+  Self-replicating technology
+  Sexuality
+  Shapeshifters
+  Shield technology
+  Simulation
+  Simulated {scifi}
+  Sleep
+  Space colonization
+  Space stations
+  Space exploration
+  Social control
+  Social engineering
+  Speculative technology
+  Star lifting
+  Stasis technology
+  Stellar engineering
+  Sun spots
+  Super drugs
+  Super physical abilities
+  Super race
+  Supernova
+  Superorganisms
+  Symbionts
+  Resource extraction
+  Resurrection
+  Robotics
+  Social media
+  Space exploration
+  Space trading
+  Space colonization
+  Superintelligent computers
+  Star bases
+  Survelliance state
+  Technological singularity
+  Technophobia
+  Techno-progressivism
+  Telekinesis
+  Telepathy
+  Teleportation
+  Terraforming
+  Time travel
+  Transcendence
+  Transcendent {scifi}
+  Transhumanism
+  Transcendent technologies
+  UFOs
+  Underground city
+  Uploaded astronaut
+  Utopia
+  Warp speed
+  Worm holes
+  Written communication

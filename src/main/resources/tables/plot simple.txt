@@ -1,0 +1,39 @@
+= Plot Simple Gladiator
+  Please generate a 200-word summary of a story. Begin by naming and describing the main character and their unique personality and motivation: {|Simple Gladiator Motivations}. However, the character's motivations must not be stereotypical or dull. After {|Simple Gladiator Inciting Incidents}, they must strive towards achieving a specific goal of {|Simple Gladiator Goals}, but they must overcome an obstacle, {|Simple Gladiator Obstacles}. Suddenly, there should be an unexpected twist {|Simple Gladiator Twists} that takes it in a new and exciting direction. Finally, the story should culminate in a dramatic crisis that brings everything to a thrilling conclusion {|Simple Gladiator Dramatic Crisis}. Please be creative and have fun with this writing exercise!
+= |Simple Gladiator Inciting Incidents
+  {|Simple Inciting Incidents}
+  {|Gladiator Inciting Incidents}
+= |Simple Gladiator Motivations
+  {|Simple Motivations} and {|Gladiator Motivations}
+= |Simple Gladiator Goals
+  {|Simple Goals} and {|Gladiator Goals}
+= |Simple Gladiator Obstacles
+  {|Simple Obstacles} and {|Gladiator Obstacles}
+= Simple Gladiator Dramatic Crisis
+  {|Simple Dramatic Crisis}
+  {|Gladiator Dramatic Crisis}
+= |Simple Gladiator Twists
+  {|Simple Twists}
+  {|Gladiator Twists}
+
+= Plot Simple
+  Please generate a 200-word summary of a story; Begin by naming and describing the main character and their unique personality and motivation: {|Simple Motivations}; However, the character's motivations must not be stereotypical or dull; After {|Simple Central Conflicts}, but they must overcome an obstacle, {|Simple Obstacles}; Suddenly, there should be an unexpected twist {|Simple Twists} that takes it in a new and exciting direction; Finally, the story should culminate in a dramatic crisis that brings everything to a thrilling conclusion {|Simple Inciting Incidents} so they face {|Simple Dramatic Crisis}; Please be creative and have fun with this writing exercise!
+  Please generate a 200-word summary of a story; Begin by naming and describing the main character and their unique personality and motivation: {|Simple Motivations}; However, the character's motivations must not be stereotypical or dull; After {|Simple Inciting Incidents}, they must strive towards achieving a specific goal of {|Simple Goals}, but they must overcome an obstacle, {|Simple Obstacles}; Suddenly, there should be an unexpected twist {|Simple Twists} that takes it in a new and exciting direction; Finally, the story should culminate in a dramatic crisis that brings everything to a thrilling conclusion {|Simple Dramatic Crisis}; Please be creative and have fun with this writing exercise!
+= |Simple Inciting Incidents
+  Something happens
+= |Simple Motivations
+  He/she wants something
+= |Simple Goals
+  He/she must do something
+= |Simple Obstacles
+  He/she can't do something
+= |Simple Dramatic Crisis
+  He/she discovers what he/she wants is unobtainable
+= |Simple Twists
+  He/She discovers that the thing he/she wants isn't what he/she thought it was
+= |Simple Conflict
+  He/She wants something that someone else has, so they must try to get it
+= |Simple Dark Secrets
+  He/she is doing something they shouldn't
+= |Simple Hidden Pasts
+  He/she once did something bad

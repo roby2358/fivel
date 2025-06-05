@@ -1,0 +1,31 @@
+= Primal World Beliefs
+  The world is {|Primal World Beliefs}
+  The world is not {|Primal World Beliefs}
+= |Primal World Beliefs
+  Safe / Dangerous
+    Pleasurable
+    Regenerative
+    Progressing
+    Harmless
+    Cooperative
+    Stable
+    Just
+  Enticing / Dull
+    Interesting
+    Beautiful
+    Abundant
+    Worth Exploring
+    Meaningful
+    Improvable
+    Funny
+  Alive / Mechanistic
+    Intentional
+    Needs Me
+    Interactive
+  Neutral
+    Acceptable
+    Changing
+    Hierarchical
+    Interconnected
+    Understandable
+  

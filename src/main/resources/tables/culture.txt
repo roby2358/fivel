@@ -1,0 +1,190 @@
+= Culture Travelogue
+ - Write an entry for a travelogue for a society with the following values:\nAesthetic values: {Culture Aesthetic Values}\nCulinary: {Culture Culinary Values}\nCultural values: {Culture}\
+
+= Culture
+  - {|CQ Identity}, {|CQ Authority}, {|CQ Risk Avoidance}, {|CQ Achievement Style}, {|CQ Time}, {|CQ Communication}, {|CQ Lifestyle}, {|CQ Rules}, {|CQ Expressiveness}, {|CQ Social Norms}
+= Cultural Tension
+  - Identity: {|CQ Identity}
+  - Authority: {|CQ Authority}
+  - Risk Avoidance: {|CQ Risk Avoidance}
+  - Achievement Style: {|CQ Achievement Style}
+  - Time: {|CQ Time}
+  - Communication: {|CQ Communication}
+  - Lifestyle: {|CQ Lifestyle}
+  - Rules: {|CQ Rules}
+  - Expressiveness: {|CQ Expressiveness}
+  - Social Norms: {|CQ Social Norms}
+= |CQ Identity
+  - Egocentric
+  3 Individualist
+  3 Collective Identity
+  - Communal Identity
+= |CQ Authority
+  - Consensus
+  3 Egalitarian
+  3 Centralized Authority
+  - Authoritarian
+= |CQ Risk Avoidance
+  - Extreme Low Risk
+  3 Low Risk
+  3 High Risk
+  - Reckless
+= |CQ Achievement Style
+  - Altruistic
+  3 Cooperative
+  3 Competitive
+  - Dominating
+= |CQ Time
+  - Punctual
+  3 Timely
+  3 Unhurried
+  - Polychronic
+= |CQ Communication
+  - Direct
+  3 Frank
+  3 Indirect
+  - Circuitous
+= |CQ Lifestyle
+  - Sensual
+  3 Being over Doing
+  3 Doing over Being
+  - Grand Purpose
+= |CQ Rules
+  - Strictly Situational Rules
+  3 Particularist Rules
+  3 Universalist Rules
+  - Extremist Rules
+= |CQ Expressiveness
+  - Neutral Expressiveness
+  3 Understated
+  3 Affective
+  - Explosive
+= |CQ Social Norms
+  - Conformist
+  3 Tight Social Norms
+  3 Loose Social Norms
+  - Counterculture
+# Hofstaeder had 5 dimensions with 2 each (kind of like 10)
+= |Hofstaeder Culture
+  - Identity
+    - Group Needs
+    - Individual Needs
+    - Personal
+    - Group
+  - Power
+    - Inequality
+    - Egalitarian
+    - Hierarchal
+    - Lassez-faire
+    - Authoritative
+  - Gender
+    - Cooperative
+    - Competition
+    - Modest
+    - Assertive
+  - Uncertainty
+    - Ambiguity
+    - Certainty
+    - Flexibility
+    - Structure
+  - Time
+    - Traditions|Past
+    - Current|Future
+    - Relationship
+    - Task
+
+= Culture Aesthetic Values
+ - {|AQ Form}, {|AQ Complexity}, {|AQ Innovation}, {|AQ Scale}, {|AQ Contrast}, {|AQ Symmetry}, {|AQ Material}, {|AQ Purpose}
+
+= |AQ Form
+ - Abstract
+ 3 Conceptual
+ 3 Representational
+ - Hyperrealistic
+
+= |AQ Complexity
+ - Minimalist
+ 3 Restrained
+ 3 Elaborate
+ - Maximalist
+
+= |AQ Innovation
+ - Traditional
+ 3 Classical
+ 3 Contemporary
+ 3 Experimental
+
+= |AQ Scale
+ - Intimate
+ 3 Human-scale
+ 3 Monumental
+ - Grandiose
+
+= |AQ Contrast
+ - Harmonious
+ 3 Balanced
+ 3 Dynamic
+ - Dramatic
+
+= |AQ Symmetry
+ - Geometric
+ 3 Ordered
+ 3 Organic
+ 3 Chaotic
+
+= |AQ Material
+ - Natural
+ 3 Crafted
+ 3 Synthetic
+ - Virtual
+
+= |AQ Purpose
+ - Functional
+ 3 Purposeful
+ 3 Expressive
+ - Purely Aesthetic
+
+= Culture Culinary Values
+ - {|CK Flavor}, {|CK Technique}, {|CK Ingredients}, {|CK Presentation}, {|CK Innovation}, {|CK Tradition}, {|CK Structure}
+
+= |CK Flavor
+ - Subtle
+ 3 Balanced
+ 3 Bold
+ - Intense
+
+= |CK Technique
+ - Rustic
+ 3 Traditional
+ 3 Refined
+ - Avant-garde
+
+= |CK Ingredients
+ - Local
+ 3 Seasonal
+ 3 Global
+ - Experimental
+
+= |CK Presentation
+ - Homestyle
+ 3 Casual
+ 3 Elegant
+ - Artistic
+
+= |CK Innovation
+ - Heritage
+ 3 Classical
+ 3 Modern
+ - Molecular
+
+= |CK Tradition
+ - Purist
+ 3 Authentic
+ 3 Fusion
+ - Deconstructed
+
+= |CK Structure
+ - Simple
+ 3 Composed
+ 3 Complex
+ - Multi-sensory

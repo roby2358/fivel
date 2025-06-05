@@ -1,0 +1,61 @@
+= Problem Solving
+  First, Identify the Problem: What is the problem you are trying to solve?
+  Then, Gather Information: What information do you need to know in order to solve the problem?
+  After, Analyze the Information: What can you do with the information you have?
+  Next, Generate Solutions: What are some possible solutions to the problem?
+  Then, Evaluate the Solutions: Which solution is the best one?
+  Finally, Implement the Solution: How can you put your solution into action?
+  Define the problem. What are the parameters and what are the goals?
+  Gather information. What do you need to know to solve this problem?
+  Develop a plan. How will you go about solving this problem?
+  Implement the plan. Put your plan into action.
+  Monitor and adjust. Are you on track? If not, what do you need to do to get back on track?
+  Evaluate the results. Did your plan work? If not, why not?
+  Learn from the experience. What can you take away from this to help you in future problem solving endeavors?
+  Task - what is the problem?
+  Obstacles - what is preventing me from achieving my goal?
+  Brainstorm - what are some possible solutions?
+  Choose - which solution will I try?
+  Plan - how will I implement my chosen solution?
+  Do - take action and see how it goes!
+  Evaluate - did my plan work? If not, why not? What could I do differently next time?
+  Clarify the problem. What are you trying to achieve? What are the specific constraints and conditions?
+  Gather information. What do you know? What do you need to find out?
+  Identify potential solutions. What are some possible approaches?
+  Evaluate the solutions. Which one is most likely to work?
+  Implement the solution. Put your plan into action.
+  Monitor and adjust. Is your solution working? If not, what do you need to change?
+  Evaluate the results. What did you learn? What could you do better next time?
+  Define the problem: What are the parameters and what are the goals?
+  Generate possible solutions: What are some potential solutions to the problem?
+  Evaluate the solutions: Which solution is the best one?
+  Implement the solution: How can you put your solution into action?
+  Monitor the results: What are the results of your solution? Are they what you expected?
+  Make adjustments: If necessary, make adjustments to your solution.
+  Evaluate the results: How did the solution work? What could you do better next time?
+  Identify the problem. What is the issue you are trying to solve?
+  Gather information. What do you need to know to solve the problem?
+  Develop a plan. What is your approach to solving the problem?
+  Implement the plan. How will you put your plan into action?
+  Monitor progress. How is the plan working?
+  Evaluate results. Did the plan work? If not, why not?
+  Learn from experience. What did you learn from this problem-solving experience that will help you in future situations?
+  Define the problem: What is the issue you are trying to solve?
+  Gather information: What do you need to know to solve the problem?
+  Generate solutions: What are some possible solutions to the problem?
+  Evaluate the solutions: Which solution is the best one?
+  Implement the solution: How can you put your solution into action?
+  Monitor the results: What are the results of your solution? Are there any improvements that could be made?
+  Learn from the experience: What did you learn from this problem-solving process? What could you do differently next time?
+  Identify the problem: what is the issue you are trying to solve?
+  Gather information: what do you need to know in order to solve the problem?
+  Develop a plan: what are the steps you need to take to solve the problem?
+  Implement the plan: put your plan into action.
+  Monitor progress: check in periodically to see how the plan is working.
+  Evaluate results: did the plan work? If not, why not? What could be done differently next time?
+  Define the problem: What is the issue you are trying to solve?
+  Gather information: What do you need to know to solve the problem?
+  Develop a hypothesis: What do you think is the cause of the problem?
+  Test the hypothesis: What can you do to prove or disprove your hypothesis?
+  Analyze the results: What did you learn from your tests?
+  Draw a conclusion: What is your final answer to the problem?

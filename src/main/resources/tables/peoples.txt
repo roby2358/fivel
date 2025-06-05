@@ -1,0 +1,139 @@
+= Peoples--Fantasy Hybrid
+  4 {Peoples--Fantasy} {Peoples--Fantasy}
+  1 {Peoples--Fantasy} {Peoples--Fantasy} of {Peoples--Fantasy}
+= Peoples--Fantasy
+  Fair Folk
+  Mountain Dwellers
+  Everyman People
+  Immortals
+  The Hive
+  Gentle Giants
+  The Unseen
+  The Last of Their Kind
+  The First of their Kind
+  Little Geniuses
+  Cannon Fodder
+  The Wild Ones
+  The Afflicted
+  The Mighty Steeds
+  Otherworlders
+  Colossals
+  The Ascended
+  Parasite
+  Conquerers
+  Endentured
+  Natured
+  Sky Wanderers
+  Time Keepers
+  Dream Weavers
+  Shadow Dancers
+  Ocean Sentinels
+  Star Voyagers
+  Flame Spirits
+  Whispering Winds
+  Eternal Wanderers
+  Crystal Keepers
+  Mystic Shapeshifters
+  Frozen Monarchs
+  Lost Nomads
+  Veil Crossers
+  Echoes of the Past
+  Sylvan Guardians
+  Iron Crafters
+  Celestial Sages
+  Harbingers of Change 
+
+# Fair Folk--Mythical, often enchanting beings, possibly akin to fairies or elves, known for their magical abilities and enigmatic nature.
+# Mountain Dwellers: Creatures or people adapted to life in mountainous regions, often rugged and isolated.
+# Everyman People: Ordinary individuals, representing the average or common person, often used in stories to make characters relatable.
+# Immortals: Beings that cannot die or age, often featured in myths and fantasy.
+# The Hive: A collective group functioning as a single entity, like bees or ants, possibly metaphorical for a society with a collective consciousness.
+# Gentle Giants: Large, imposing beings known for their kind nature, contrary to their intimidating appearance.
+# The Unseen: Mysterious entities that are invisible or exist in realms beyond human perception.
+# The Last of Their Kind: The sole survivors of a species or group, often highlighting themes of extinction or loneliness.
+# The First of Their Kind: Pioneers or original members of a species or group, embodying innovation or the beginning of a new era.
+# Little Geniuses: Small in size but intellectually gifted characters, often children or miniature beings with exceptional intelligence.
+# Cannon Fodder: Expendable individuals, often used in war or conflict situations, with little regard for their well-being.
+# The Wild Ones: Untamed, free-spirited beings, living outside societal norms or in a state of nature.
+# The Afflicted: Individuals suffering from a curse, disease, or misfortune, often evoking sympathy or horror.
+# The Mighty Steeds: Noble and powerful animals, often horses, used in battle or adventure, symbolizing strength and loyalty.
+# Otherworlders: Beings from another world or dimension, embodying the unknown or alien.
+# Colossals: Extremely large and powerful entities, often giants or titanic creatures, symbolizing overwhelming force.
+# The Ascended: Individuals who have reached a higher state of being, enlightenment, or power, often through spiritual or mystical means.
+# Parasite: Organisms or entities that live off others, often negatively impacting their hosts, symbolizing dependence or exploitation.
+# Conquerers: Those who dominate or subdue others, often through force, symbolizing power, ambition, and sometimes tyranny.
+# Endentured: Individuals bound to serve others, often without choice, reflecting themes of servitude and lack of freedom.
+# Natured: Beings intrinsically tied to natural elements or forces, embodying the essence of nature or a particular aspect of it.
+# Sky Wanderers: Beings who live among the clouds or in the skies, often possessing the ability to fly or control the weather.
+# Time Keepers: Guardians or manipulators of time, capable of altering or observing different timelines and epochs.
+# Dream Weavers: Entities that can control or influence dreams, often shaping the subconscious minds of others.
+# Shadow Dancers: Mysterious figures who move within shadows or darkness, embodying stealth and secrecy.
+# Ocean Sentinels: Protectors or inhabitants of the sea, often associated with marine life or underwater kingdoms.
+# Star Voyagers: Travelers or explorers of the cosmos, journeying between stars and galaxies.
+# Forgotten Ancients: Ancient beings or civilizations lost to history, holding ancient wisdom or forgotten powers.
+# Flame Spirits: Entities associated with fire, capable of manipulation or embodiment of flames.
+# Whispering Winds: Spirits or forces that communicate or manifest through the wind, often seen as messengers or omens.
+# Eternal Wanderers: Nomadic beings with no fixed home, forever roaming lands and realms.
+# Crystal Keepers: Guardians or users of powerful crystals, often involved in magic or energy work.
+# Mystic Shapeshifters: Beings with the ability to change their form, often reflecting a connection to nature or the animal kingdom.
+# Frozen Monarchs: Rulers or inhabitants of icy realms, often associated with cold, snow, and winter.
+# Lost Nomads: Groups or individuals perpetually lost, either physically or metaphorically, often on a quest for home or identity.
+# Veil Crossers: Beings who can traverse or communicate between different planes of existence, like life and death.
+# Echoes of the Past: Spirits or remnants of past events or people, often haunting or revisiting the present.
+# Sylvan Guardians: Protectors of forests and natural environments, embodying the spirit of nature.
+# Iron Crafters: Skilled artisans of metal and machinery, often associated with innovation and industry.
+# Celestial Sages: Wise beings associated with the stars and cosmos, often providing guidance or prophecy.
+# Harbingers of Change: Entities that signify or bring about significant change or transformation, often seen as omens.  
+
+# Gemini
+# Diversity: The list includes a diverse range of entities, suggesting a complex and varied world or story setting.
+# Mystery: Many elements are shrouded in mystery, inviting exploration and discovery.
+# Conflict: The presence of opposing forces like Conquerors and Endentured suggests potential for conflict and struggle.
+# Duality: The list features contrasting elements like Gentle Giants and Cannon Fodder, highlighting the complexities of existence.
+# Supernatural: The inclusion of Fair Folk, Immortals, and Otherworlders adds a layer of the fantastical and extraordinary.
+# Social Commentary: Several elements, like The Afflicted and Endentured, address social issues and injustices.
+# Evolution and Transformation: Concepts like The Ascended and The First of Their Kind point towards potential for change and transformation.
+
+= Peoples--Horror
+  Shadow Lurkers
+  Silent Watchers
+  Whispering Wraiths
+  Flesh Weavers
+  Eternal Sufferers
+  Crawling Horrors
+  Grim Reclaimers
+  Mind Invaders
+  Unseen Stalkers
+  Cursed Ones
+  Living Nightmares
+  Vengeful Spirits
+  Decay Masters
+  Echoing Screams
+  Blood Drinkers
+  Shapeless Terrors
+  Puppeteers of the Dead
+  Faceless Ones
+  Keepers of Secrets
+  Invisible Menaces
+
+# Shadow Lurkers: Entities that hide in the darkness, their presence felt but seldom seen, inducing fear through their elusiveness.
+# Silent Watchers: Mysterious figures that observe from a distance, never interacting but always present, creating a sense of paranoia.
+# Whispering Wraiths: Ghostly beings that communicate through whispers, often chilling and incomprehensible, haunting the living.
+# Flesh Weavers: Monstrous creatures that manipulate flesh and bone, often in grotesque and unsettling ways.
+# Eternal Sufferers: Tormented souls doomed to relive their agony, their pain palpable and infectious.
+# Crawling Horrors: Creatures that skitter in the shadows, their forms often disturbing and unnatural, evoking deep primal fears.
+# Grim Reclaimers: Dark figures tasked with collecting souls, unyielding and relentless in their pursuit.
+# Mind Invaders: Entities that infiltrate and corrupt thoughts, turning one's own mind into a terrifying battleground.
+# Unseen Stalkers: Predators that are felt but never seen, their presence marked by a chilling sense of being followed.
+# Cursed Ones: Individuals bearing a curse that brings misfortune or horror to themselves and those around them.
+# Living Nightmares: Manifestations of one's deepest fears, bringing to life horrors that were thought to exist only in dreams.
+# Vengeful Spirits: Ghosts seeking retribution, often tied to a specific place or object, targeting those who wronged them or trespass their domain.
+# Decay Masters: Beings that bring rot and decay, their touch or mere presence causing life to wither and die.
+# Echoing Screams: Sounds of agony or distress that replay endlessly, their source never found, creating an atmosphere of despair.
+# Blood Drinkers: Creatures that sustain themselves on the blood of the living, often portrayed as vampires or similar beings.
+# Shapeless Terrors: Formless entities that instill fear by their very indefinability, challenging the sanity of those who encounter them.
+# Puppeteers of the Dead: Necromancers or entities that control the dead, often using corpses as tools or weapons.
+# Faceless Ones: Beings without a distinct identity or appearance, creating unease through their lack of human features.
+# Keepers of Secrets: Guardians of forbidden knowledge, their revelations often leading to madness or worse.
+# Invisible Menaces: Threats that cannot be seen, like deadly viruses or malevolent forces, inciting fear of the unknown.
+  

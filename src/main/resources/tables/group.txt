@@ -1,0 +1,149 @@
+= Group
+  - {|Group Variant} {|Group Variant} {|Group Type}
+= Chimeras
+  - 3 {Animals} {Animals}
+  - 1 {Animals} {Animals} {Animals}
+= Powered Chimeras
+  - 3 {|Group Variant} {Animals} {Animals} with {Power}
+  - 1 {|Group Variant} {Animals} {Animals} {Animals} with {Power}
+= Powered Group
+  - {Group} with {power}
+= Powered Animals
+  - {|Group Variant} {|Group Variant} {Animals} with {Power}
+= |Group Variant
+  - Alien
+  - Biker
+  - Charged
+  - Chi
+  - Chivalrous
+  - Deep Sea
+  - Desert
+  - Euro
+  - Extra-dimensional
+  - Firey
+  - Flying
+  - Giant
+  - Hybrid
+  - Icy
+  - Jungle
+  - Karate
+  - Kung Fu
+  - Luminous
+  - Machine
+  - Mountain
+  - Mutant
+  - Nightmare
+  - Nija
+  - Oceananic
+  - Organic
+  - Poisonous
+  - Radioactive
+  - Ritualistic
+  - Robotic
+  - Sassy
+  - Terror
+  - Vegan
+  #
+= |Group Type
+  - Agents
+  - AIs
+  - Anarchists
+  - Androids
+  - Assassins
+  - Beasts
+  - Bikers
+  - Crabs
+  - Cream Puffs
+  - Foxes
+  - Knights
+  - Lizard Men
+  - Lizards
+  - Martial Artists
+  - Nihilists
+  - Nijas
+  - Operatives
+  - Pigs
+  - Rats
+  - Reavers
+  - Robots
+  - Slimes
+  - Spies
+  - Street Thugs
+  - Swordsmen
+  - Vegans
+  - Walking Plants
+  - Werewolves
+  #
+= Sizes
+  - 8 1 foot
+  - 8 3 feet
+  - 13 6 feet
+  - 8 7 feet
+  - 5 9 feet
+  - 3 20 feet
+  - 2 40 feet
+  - 1 100 feet
+  #
+= Animals
+  # canines
+  - 1 Fox
+  - 2 Wolf
+  # cats
+  - 2 Cheeta
+  - 2 Cougar
+  - 1 Hyena
+  - 2 Leapord
+  - 2 Lion
+  - 2 Puma
+  - 2 Tiger
+  # apes
+  - 2 Ape
+  - 1 Baboon
+  - 2 Human
+  - 2 Monkey
+  - 1 Orangatang
+  # mammals
+  - 2 Badger
+  - 2 Bat
+  - 2 Bear
+  - 2 Bull
+  - 1 Cow
+  - 1 Elephant
+  - 1 Hippo
+  - 1 Kangaroo
+  - 1 Ox
+  - 2 Pig
+  - 1 Porcupine
+  - 1 Rabbit
+  - 2 Rat
+  - 1 Rhinocerous
+  - 1 Squirrel
+  - 1 Wolverine
+  # birds
+  - 2 Eagle
+  - 2 Hawk
+  - 1 Dove
+  - 1 Vulture
+  - 1 Stork
+  # reptiles
+  - 2 Lizard
+  - 2 Snakes
+  - 1 Alligators
+  # amphibians
+  - 1 Salamander
+  - 1 Frog
+  # insects
+  - 1 Spider
+  - 1 Beetle
+  - 1 Fly
+  - 1 Centipede
+  # plants
+  - 1 Vine
+  - 1 Trap
+  - 1 Tree
+  - 1 Flower
+  # exotic
+  - 1 Slimes
+  - 1 Fungus
+  # Mythical
+  - Unicorn

@@ -1,0 +1,88 @@
+= Threat
+  - 5 {Threat What you know}
+  - 6 {Threat What you have}
+  - 4 {Threat Where you are}
+  - 5 {Threat Who you are}
+  - 7 {Threat What you can do}
+= Threat Power
+  3 {threat} with {power}
+#  2 {threat} with {power}, and {power}
+#  1 {threat} with {power}, and {power}, and {power}
+= Threat What you know
+  - {|know}
+    - Spell
+    - Map
+    - Location
+    - Plan
+    - Blackmail
+Threat What you have
+  - {|have}
+    - Jewelry
+      - {Medieval Jewelry}
+    - Tool
+      - {Medieval Tool}
+    - Weapon
+      - {Medieval Weapon}
+    - Common
+      - {Medieval Everyday}
+    - Sigil
+    - Gems
+Threat Where you are
+  - {|where}
+    - 4 Populated
+      - Town
+      - Neighborhood
+      - Castle
+      - Fortress
+    - 3 Rural
+      - Village
+      - Farm
+      - Outpost
+    - 3 Wilderness
+      - Outpost
+      - Homestead
+      - Tree
+    - 5 Hidden
+      - City
+      - Cave
+      - Waterfall
+      - Tower
+      - Valley
+Threat Who you are
+  - {|who}
+    - Religious Icon
+    - Magic
+    - Chosen One
+    - Royalty
+    - Guardian
+Threat What you can do
+  - {|can}
+    - Dance
+    - Sing
+    - Fight
+    - Dream
+    - Cook
+    - Brew
+    - Forge
+= |know
+  - Learn of
+  - Reveal
+= |have
+  - Obtain
+  - Defend
+  - Discover
+  - Hide
+= |where
+  - Find
+  - Leave
+= |who
+  - Become
+  - Befriend
+  - Defeat
+  - Protect
+  - Trick
+  - Capture
+= |can
+  - Learn how
+  - Perform
+  - {abuse recovery}

@@ -1,0 +1,91 @@
+= Plot-threat
+  - {plot} : {threat}
+= Plot-life-prompt
+  - {plot} : {Life Prompt}
+# https://lukejames7.wordpress.com/scriptwriting/22-steps-notes/
+= Plot
+  - Self-revelation, need, and desire
+  - Ghost world - history, internal struggle
+  - Story world - average day
+  - Weakness and need
+  - Inciting event - breaks the story world
+  - Desire - focus of plot
+  - Ally - define protagonist by contrast
+  - Opponent - can attack heros weakness
+  - Mystery - unseen opponent
+  - Fake-ally opponent - appears as ally, but attacks heros weakness
+  - Revelation and decision: Changed desire and motive
+  - Plan - means to fulfil desire
+  - Opponents plan and main counterattack - stop hero from fulfilling desire
+  - Drive - steps within plan
+  - Attack by ally - hero goes awry, ally must right
+  - Apparent defeat - lost hope, about to give up
+  - Obsessive drive, changed desire and motive
+  - Audience revelation - audience sees information hero does not
+  - Last revelation and decision
+  - Gate, gauntlet, visit to death - last sacrifice hero must make
+  - Battle
+  - Self-revelation - hero figures out how to attain desire
+  - Moral decision - must make moral decision to do the right thing
+  - New equilibrium - new story world
+  - Really Bad Day
+  - Something Peculiar
+  - Grasping at Straws
+  - Call to Adventure
+  - Head in the Sand
+  - Pull out Rug
+  - Enemies and Allies - point of no return in the new world
+  - Games & Trials - most exciting thing new world has to offer
+  - Earning Respect
+  - First Battle, First Pinch Point
+  - Forces of Evil
+  - Problem Revealed - overwhelmed at how much they dont know
+  - Plan of Attack
+  - Crucial Role
+  - Mirror Stage - victim to warrior, relucant to deliberate
+  - Direct Conflict
+  - Surprize Failure
+  - Opponent wins
+  - Shocking Revelation - guilt, anger, responsibility
+  - Giving Up
+  - Pep Talk
+  - Seizing the Sword
+  - Ultimate Defeat
+  - Unexpected Victory
+  - Internal, Rebirth - return to ordinary world
+  - Bittersweet Reflection
+  - Death of Self - reflection, closure, explanation
+  - Disclose the Mystery
+  - Set Sleuth on Path
+  - Facts About Suspects
+  - Broaden the Investigation
+  - Reveal Hidden Motives
+  - Reveal Results
+  - Review the Case
+  - Weigh the Evidence
+  - Reveal the Answer
+  - Refusal of the Call
+  - Meeting the Mentor
+  - The Ordeal
+  - The Road Back
+  - Return with the Elixr
+  - The World is Not What it Seems
+  - The Warning
+  - First Contact with Monster
+  - It Gets Real
+  - Seeking out the Beast
+  - Sacrifices are Made (or Not)
+  - Evil Cannot be Conquered, Only Delayed
+  - Crossing the Rubicon
+  - From the Ashes
+  - Time to Kick Ass
+  - Inkling of Desire
+  - Deepening Desire
+  - Inkling of Doubt
+  - Deepening Doubt
+  - Shields Up
+  - Break Up
+  - Wake Up
+  - Great Gesture
+  - Big Heart
+  - Sexy Complication

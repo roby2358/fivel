@@ -1,0 +1,25 @@
+= Wordish Verse
+ {wordish} {wordish}
+
+= Wordish
+  {Wordishness}{Wordishness} {Wordishness}
+  {Wordishness} {Wordishness} {Wordishness}
+  {Wordishness} {Wordishness}{Wordishness}
+  {Wordishness}{Wordishness}{Wordishness}
+
+= Wordishness
+  5 ahhh...
+  3 mmmmm...
+  2 ohhhhh...
+  2 uhhh
+  2 ohhh
+
+#  A
+#  WHA
+#  HA
+#  OW
+#  OW
+#  O
+#  WAAH
+#  AW
+#  A

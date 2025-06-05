@@ -1,0 +1,42 @@
+= Fallacies
+  Ad Hominem -- discredit the other
+  Straw Man -- easily defeated misdirection
+  Appeal to Ignorance -- has not been proven false, no evidence
+  False Dichotomy -- reduce to either/or
+  Slippery Slope -- leads to conclusion without justification
+  Circular Argument -- repeats an assertion
+  Hasty Generalization -- a few examples without substantial proof
+  Red Herring -- distraction toward false conclusion
+  Appeal to Hypocrisy -- focus on hypocrisy of opponent
+  Causal Fallacy -- incorrectly concludes cause and effect
+  Sunk Cost -- effort spent justifies more effort
+  Appeal to Authority -- misuse of an authority's opinion
+  Equivocation -- misuse a word or phrase to mislead
+  Appeal to Pity -- provoking your emotions rather than evidence
+  Bandwagon Fallacy -- true because others agree
+  Begging the Question -- Assume the basis of argument without proof
+  Appeal to Force -- threaten violence
+  Irrelevant Conclusion -- lands on different conclusion than agument
+  Genetic Fallacy -- dismissing an argument because of its origin or source
+  Composition Fallacy -- inferring that the whole must have the same characteristics as its parts
+  Division Fallacy -- inferring that the parts must have the same characteristics as the whole
+  Anecdotal Fallacy -- using personal anecdotes as evidence instead of broader data
+  Texas Sharpshooter Fallacy -- cherry-picking data to fit a desired conclusion
+  Black and White Fallacy -- oversimplifying a complex issue into only two extreme positions
+  No True Scotsman Fallacy -- redefining a category to exclude counterexamples
+  Ad Populum -- appealing to popular beliefs or sentiments rather than evidence
+  False Cause Fallacy -- assuming that because two events occur together, one caused the other
+  False Authority Fallacy -- accepting an authority's claim outside their area of expertise
+  Ad Misericordiam -- using pity or sympathy to win an argument instead of evidence
+  Middle Ground Fallacy -- assuming the truth must be somewhere between two extremes
+  Gambler's Fallacy -- assuming that past events will influence future probability
+  Post Hoc Fallacy -- assuming that because one event followed another, the first caused the second
+  Loaded Question -- asking a question that assumes a particular answer or point of view
+  False Equivalence -- falsely equating two things as if they are equal in all respects
+  Appeal to Tradition -- arguing that something is true or good because it has been done for a long time
+  Burden of Proof Fallacy -- demanding that someone prove their argument is false rather than proving your own argument is true
+  Fallacy Fallacy -- assuming that because an argument contains a fallacy, the argument must be false
+
+
+
+

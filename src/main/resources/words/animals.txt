@@ -1,0 +1,51 @@
+  Fox
+  Wolf
+  Cheeta
+  Cougar
+  Hyena
+  Leapord
+  Lion
+  Puma
+  Tiger
+  Ape
+  Baboon
+  Human
+Monkey
+Orangatang
+Badger
+Bat
+Bear
+Bull
+Cow
+Elephant
+Hippo
+Kangaroo
+Ox
+Pig
+Porcupine
+Rabbit
+Rat
+Rhinocerous
+Squirrel
+Wolverine
+Eagle
+Hawk
+Dove
+Vulture
+Stork
+Lizard
+Snakes
+Alligators
+Salamander
+Frog
+Spider
+Beetle
+Fly
+Centipede
+Vine
+Trap
+Tree
+Flower
+Slimes
+Fungus
+Unicorn

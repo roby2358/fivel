@@ -1,0 +1,191 @@
+= Romance Premise
+  Second chance at love: Two former lovers reconnect after years apart and must navigate their feelings for each other and their past.
+  Opposites attract: A unlikely couple, with vastly different personalities and lifestyles, fall in love and work to overcome their differences.
+  Friends to lovers: Two friends who have been in love with each other for years finally confess their feelings and start a romantic relationship.
+  Forbidden love: A couple must navigate societal, familial, or personal obstacles to be together.
+  Love triangle: Three people are torn between their feelings for each other, leading to complications and tensions in their relationships.
+  Office romance: Two coworkers fall in love, but must navigate the challenges and potential consequences of dating in the workplace.
+  Coming of age love: A young person falls in love for the first time, navigating the ups and downs of young love.
+  Love after loss: A person who has lost a spouse or significant other finds love again later in life.
+  Love across cultures: A couple from different cultural backgrounds must navigate the challenges of their differences to be together.
+  Love in a small town: A person moves to a small town and falls in love with a local, discovering the tight-knit community and its challenges.
+  Love rediscovered: A couple who have been married for years rediscover their love for each other after going through a rough patch.
+  Love in the military: A person serving in the military falls in love with someone back home, facing challenges of distance and the dangers of their service.
+  Love on the road: Two people who meet while traveling fall in love, but must navigate the challenges of their differing lives and paths.
+  Love after a makeover: A person who undergoes a transformation, either physically or emotionally, finds love as a result.
+  Love after a divorce: A person who has been through a divorce finds love again and navigates the challenges of starting over.
+  Love across time: A couple separated by time, either through time travel or a significant age difference, must navigate their love for each other.
+  Love in a foreign country: A person who travels to a foreign country for work or adventure falls in love with a local and navigates the challenges of their differences.
+  Love in the workplace: Two coworkers fall in love, but must navigate the challenges and potential consequences of dating in the workplace.
+  Love in the future: A person falls in love in a future world, navigating the challenges and differences of their technologically advanced society.
+  Love after a tragedy: A person who has suffered a tragic loss finds love and healing in the aftermath.
+= Superhero Premise
+  Origin story: The protagonist's journey from a regular person to a superhero, including the events that lead to their powers and the development of their alter ego.
+  Secret identity: The hero must keep their superhero identity a secret from the public and those close to them.
+  Powers and abilities: The hero possesses unique abilities that set them apart from regular people, such as super strength, flight, or special gadgets.
+  Conflict with villains: The hero faces challenges and obstacles in the form of superpowered villains or criminal organizations.
+  The city as a character: The setting of the story, often a large metropolitan city, serves as a backdrop and a character in its own right.
+  The need for teamwork: The hero often works with other superheroes to overcome challenges and defeat villains.
+  The importance of responsibility: The hero must use their powers and abilities for good, and take responsibility for the consequences of their actions.
+  Ethics and morality: The hero must navigate ethical and moral dilemmas, often facing challenges to their beliefs and values.
+  Legacy and heritage: The hero may have a legacy to live up to, or may have a family history that is intertwined with their powers and abilities.
+  Love and relationships: The hero may have romantic relationships, and may have to balance their personal and superhero lives.
+  Friendship and camaraderie: The hero may form close bonds with other heroes and allies, forming a team or community of like-minded individuals.
+  Growing and changing: The hero may evolve and change over time, as they gain experience and wisdom.
+  Overcoming personal flaws: The hero may have personal flaws, such as anger or self-doubt, which they must overcome in order to fulfill their potential as a hero.
+  The importance of family: The hero may have a family, and may face challenges in balancing their family and superhero responsibilities.
+  The cost of being a hero: The hero may face physical, emotional, and financial consequences as a result of their heroic actions.
+  The role of government: The hero may face challenges from government authorities, who may view them as a threat or seek to regulate or control their powers.
+  The impact of science and technology: The hero may use science and technology to enhance their powers, or may face challenges from villains who use science and technology for evil.
+  The struggle for justice: The hero may fight against systemic injustice, discrimination, and oppression, both as a superhero and as a member of their community.
+  The power of hope: The hero may serve as a symbol of hope and inspiration to those around them, offering a glimpse of a better future.
+  The human connection: Despite their powers and abilities, the hero remains a relatable and empathetic character, connecting with the reader on a human level.
+= Fantasy Premise
+  A fantastical world: The setting is a fictional world filled with magical creatures, mythical beings, and otherworldly landscapes.
+  Magic and sorcery: The presence of magic and sorcery, and the ways in which it is used, are central to the plot.
+  A quest: The protagonist is on a quest, either to find an object, person, or place, or to defeat an enemy.
+  A chosen one: The protagonist is revealed to be the chosen one, destined to save the world or defeat the enemy.
+  Good versus evil: The story often features a clear division between good and evil, with the protagonist fighting on the side of good.
+  Creatures and mythical beings: The story features a variety of creatures and mythical beings, such as dragons, unicorns, goblins, and fairies.
+  A hidden world: The story takes place in a hidden world, either a secret society or a parallel dimension.
+  A prophecy: The story revolves around a prophecy, often predicting the outcome of a great battle or the fate of the world.
+  A magical object: The story centers on a magical object, such as a powerful wand, a cursed amulet, or a enchanted sword.
+  A journey through a dangerous land: The protagonist embarks on a journey through a dangerous land, facing challenges and obstacles along the way.
+  A coming-of-age story: The protagonist is on a journey of self-discovery, growing and changing as they face
+  A battle for power: The story revolves around a battle for power, as characters seek to gain control over a kingdom, a magical artifact, or a powerful source of magic.
+  A love story: The story features a romantic subplot, often involving forbidden love or a love triangle.
+  A family drama: The story explores the relationships between family members, including sibling rivalries, parent-child conflicts, and ancestral legacies.
+  A political intrigue: The story features political intrigue, as characters scheme and manipulate to gain power and influence.
+  A rebellion: The story features a rebellion, as characters rise up against a corrupt or unjust ruler.
+  A lost world: The story takes place in a lost world, either a forgotten kingdom or a mysterious island.
+  A mysterious entity: The story features a mysterious entity, such as a ghost, a demon, or a deity, that the protagonist must confront.
+  A supernatural event: The story is centered around a supernatural event, such as a solar eclipse, a full moon, or a mystical ceremony.
+  A coming apocalypse: The story revolves around a coming apocalypse, as the protagonist works to prevent the end of the world.
+= Human Condition
+# struggle meaning happiness pain mortality freedom security knowledge
+# individualism interdependence light dark change obstacles joy growth
+# identity unity purpose interconnectedness
+  The struggle to find meaning and purpose in life.
+  A constant search for happiness and fulfillment, but also includes the experience of pain and suffering.
+  Individual and collective experiences, including social and cultural factors.
+  Range of emotions, including love, fear, joy, and sorrow.
+  Mortality and the recognition of our own impermanence.
+  Tension between the desire for freedom and the need for security and stability.
+  Quest for knowledge and understanding, as well as the limitations of our own understanding.
+  Experience of both individualism and interdependence, as we navigate our relationships with others.
+  Struggle to reconcile our own desires with the needs of the wider world and society.
+  Balance between our innate impulses and societal norms and expectations.
+  Experience of both light and dark aspects of human nature, including kindness and cruelty, altruism and self-interest.
+  Experience of change and transformation, both within ourselves and in the wider world.
+  Interaction between our internal and external worlds, including our thoughts, emotions, and physical experiences.
+  Struggle to overcome obstacles and challenges, both within ourselves and in the wider world.
+  Experience of both joy and pain, and the recognition that one cannot exist without the other.
+  Recognition of our own limitations and fallibility, as well as the potential for growth and development.
+  Search for identity and self-discovery, as well as the influence of external factors on our sense of self.
+  Experience of both unity and division, as we navigate our relationships with others and the wider world.
+  Desire for meaning and purpose, as well as the recognition of the inherent uncertainty and ambiguity of life.
+  Recognition of the interconnectedness of all things, and our role in shaping the world around us.
+  Spirituality or religion in shaping the human experience.
+  Impact of technology on the human condition, including both positive and negative effects.
+  Trauma or adversity and its impact on the human psyche.
+  Gender, sexuality, race, and other identities on the human experience.
+  Historical events and social movements on the human condition.
+  Creativity and imagination in shaping the human experience.
+  Beauty, wonder, and awe, and their role in shaping our perceptions of the world.
+  Individual and society, and the tensions that can arise from this relationship.
+  Love and intimacy, and its role in shaping the human experience.
+  Conflict and struggle in shaping the human condition, and the potential for growth and transformation that can result from these experiences.
+  The absence of any desire or drive to find meaning or purpose in life.
+  A life devoid of any experience of pain or suffering.
+  A complete lack of emotion or feeling.
+  An experience of immortality or eternal life without any recognition of mortality.
+  A complete lack of individuality or the experience of being entirely defined by societal norms and expectations.
+  An experience of life completely devoid of challenge, obstacle, or adversity.
+  A complete lack of creativity or imagination.
+  A life without any sense of wonder, beauty, or awe.
+  A complete lack of conflict or struggle.
+  A complete lack of interpersonal relationships or the experience of isolation.
+= Human Actions Affirmative
+  Pursuing personal growth and self-discovery through reflection and introspection.
+  Building and nurturing interpersonal relationships with others.
+  Working to overcome obstacles and challenges, both internal and external.
+  Expressing oneself creatively through art, music, writing, or other means.
+  Seeking out experiences that provide a sense of wonder, awe, or beauty.
+  Demonstrating empathy and compassion towards others.
+  Striving to make a positive impact on the world through acts of kindness and generosity.
+  Recognizing and embracing the impermanence of life, and finding meaning in the present moment.
+  Striving to overcome personal biases and prejudices, and embracing diversity and difference.
+  Practicing forgiveness and letting go of grudges and resentment.
+  Facing and embracing one's fears and vulnerabilities.
+  Engaging in healthy habits and practices that promote physical and mental well-being.
+  Seeking out new experiences and knowledge to expand one's understanding of the world.
+  Contributing to a larger cause or purpose that extends beyond one's own personal interests.
+  Embracing the reality of change and transformation, and adapting to new circumstances.
+  Finding a balance between individualism and interdependence in relationships with others.
+  Seeking out ways to live authentically and in accordance with one's values and beliefs.
+  Recognizing and accepting the inherent uncertainty and ambiguity of life.
+  Practicing gratitude and finding joy in the small moments of life.
+  Embracing the full range of human emotion and experience, including pain and suffering, as well as love and joy.
+= Human Actions Negative
+  Avoiding introspection and personal growth, and remaining stagnant or complacent.
+  Engaging in behaviors that harm or damage interpersonal relationships.
+  Avoiding challenges and obstacles, and remaining in a state of comfort or complacency.
+  Suppressing creativity and avoiding self-expression.
+  Avoiding experiences that provide a sense of wonder, awe, or beauty.
+  Displaying apathy or lack of concern for the well-being of others.
+  Engaging in behaviors that harm or damage others or the world.
+  Ignoring the impermanence of life and living without purpose or meaning.
+  Embracing personal biases and prejudices, and rejecting diversity and difference.
+  Holding onto grudges and resentment, and refusing to forgive.
+  Avoiding fears and vulnerabilities, and remaining closed off emotionally.
+  Engaging in unhealthy habits or practices that harm physical and mental well-being.
+  Avoiding new experiences and remaining closed-minded.
+  Pursuing only one's own personal interests, without concern for others or the world at large.
+  Resisting change and failing to adapt to new circumstances.
+  Embracing only individualism or interdependence, without finding a balance between the two.
+  Living inauthentically, without regard for personal values or beliefs.
+  Refusing to accept the inherent uncertainty and ambiguity of life.
+  Failing to practice gratitude or find joy in life's small moments.
+  Suppressing or denying the full range of human emotion and experience.
+= Fantasy Conflicts
+  Power struggles between different factions or individuals within a fantasy world.
+  Religious differences and conflicts between various religious groups.
+  Resource scarcity or competition for resources, such as land, food, or water.
+  Cultural misunderstandings or clashes between different races or cultures within the fantasy world.
+  Class inequality and struggles between different social classes.
+  Differences in political ideologies or systems of governance.
+  Betrayal or treachery by one or more characters.
+  Revenge or personal vendettas between characters.
+  Family disputes or rivalries between different families or bloodlines.
+  Forbidden love or romantic entanglements that are socially or culturally unacceptable.
+  Ideological conflicts between magic users and non-magic users.
+  Wars or conflicts between different nations or kingdoms within the fantasy world.
+  Competition for magical artifacts or ancient relics.
+  Differences in magical abilities or techniques between different characters or factions.
+  Power struggles within the ruling class or among different noble families.
+  Disputes over succession or inheritance.
+  Rivalry between different schools of magic or different types of magical creatures.
+  Conflicts between good and evil or light and dark forces.
+  Moral conflicts between characters who hold different values or beliefs.
+  Conflicts arising from ancient prophecies or curses.
+= Fantasy Conflict Resolution
+  Negotiation and compromise between conflicting parties.
+  Diplomacy or mediation by neutral parties.
+  Use of magic or other supernatural powers to resolve conflicts.
+  Dueling or combat between individuals or groups to settle disputes.
+  Legal proceedings or trials to resolve disputes.
+  Redemption or forgiveness of one or more parties involved in the conflict.
+  Revelation of hidden information that clears up misunderstandings or exposes wrongdoing.
+  Creation of alliances or coalitions between previously opposing factions.
+  Sacrifice or selflessness by one or more characters to resolve the conflict.
+  Enlisting the help of a third party or outside force to resolve the conflict.
+  Finding a common enemy or threat that forces the conflicting parties to work together.
+  Use of technology or innovative solutions to resolve the conflict.
+  Discovering a hidden or alternate solution to the conflict.
+  Offering a compromise or alternative solution that satisfies all parties involved.
+  Introducing a moral or ethical dilemma that forces the characters to reconsider their actions and motives.
+  Utilizing a deus ex machina, or divine intervention, to resolve the conflict.
+  The realization that the conflict was caused by a misunderstanding or miscommunication, leading to an apology and reconciliation.
+  Characters realizing that the conflict is not as important as they once thought and deciding to move on.
+  The characters coming to a realization that there is more to gain by working together than by being in conflict.
+  A character willingly sacrificing their own interests or desires for the greater good.

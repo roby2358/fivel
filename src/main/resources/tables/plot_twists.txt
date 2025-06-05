@@ -1,0 +1,331 @@
+= Plotting
+  - 2 {Plot Element}
+  - 1 {Plot Twist}
+= Plot Twist
+  {Plot Twist in Detective stories}
+  {Plot Twist in Fantasy}
+  {Plot Twist in Mysteries}
+  {Plot Twist in Science Fiction}
+  {Plot Twist in Soap Operas}
+  {Plot Twist in Westerns}
+  {Weird Plot Twist}
+= Plot Twist in Soap Operas
+  Reveal a character to be alive after being presumed dead.
+  Baby switch at birth.
+  Love triangle with a surprise pregnancy.
+  Secret identity or hidden past revealed.
+  Amnesia or memory loss.
+  Betrayal or infidelity.
+  Sudden disappearance or kidnapping.
+  Mysterious illness or health scare.
+  Return of a long-lost character.
+  Shocking murder or death.
+  Sudden inheritance.
+  Financial scandal.
+  Mental illness or addiction.
+  Natural disaster or catastrophic event.
+    - Earthquake
+    - Flood
+    - Storm
+    - Fire
+  Love interest turns out to be related by blood.
+  Time jump or flash-forward.
+  Surprise twins.
+  Multiple birth.
+  Blackmail over past iniquity.
+  Political intrigue upsets the plan.
+  Corruption threatens characters.
+  Appearance of a ghost or supernatural event.
+  Plot to overthrow a family dynasty.
+= Weird Plot Twist
+  Character revealed to be an alien or supernatural being.
+  Character revealed to be a vampire or werewolf.
+  Character discovers they have been cloned.
+  Character turns out to be a ghost or figment of someone's imagination.
+  Characters discover they are part of a cult or secret society.
+  Character experiences parallel universes or time travel.
+  Character learns they are the reincarnation of someone else.
+  Character discovers they have telepathic or supernatural powers.
+  Character becomes trapped in a virtual reality or simulated world.
+  Character is revealed to be a android or cyborg.
+= Plot Twist in Westerns
+  The hero turns out to be a villain.
+  A character is revealed to be a long-lost relative.
+  The villain turns out to have a tragic backstory.
+  The hero is betrayed by someone they trusted.
+  A character is revealed to be a spy or infiltrator.
+  A gunslinger or outlaw becomes a vigilante for justice.
+  A small group of unlikely allies band together to fight against a common enemy.
+  The hero discovers that their enemy is actually their long-lost father or mother.
+  A character sacrifices their own life to save the hero.
+  The hero discovers a hidden stash of gold or valuable treasure.
+  A band of outlaws or criminals are chased into a deadly trap or ambush.
+  A character is revealed to have faked their own death.
+  A sudden natural disaster or catastrophic event changes the course of the story.
+  A character makes a difficult decision to leave their old life behind and start over.
+  The hero and the villain engage in a final showdown at high noon.
+  A character becomes a wanted outlaw and must flee from the law.
+  A love triangle develops between the hero, the villain, and a third party.
+  A character finds redemption and transforms from a life of crime to one of good.
+  The hero discovers that their family or friends have been taken hostage.
+  A group of settlers or pioneers must band together to survive against a hostile environment or hostile indigenous population.
+= Plot Twist in Fantasy
+  The main character discovers they have hidden magical powers.
+  A character is revealed to be a long-lost prince or princess.
+  The villain turns out to be a former ally or friend.
+  A character sacrifices their own life to save the hero.
+  A mysterious prophecy is revealed to be crucial to the story's outcome.
+  The hero discovers that their quest is actually a trap set by the villain.
+  A love interest turns out to be a rival or enemy.
+  A character is revealed to have a dark side or hidden agenda.
+  A character must choose between their own desires and the greater good.
+  The hero learns that the object of their quest has been destroyed or lost.
+  A character gains an unexpected ally in the form of a monster or mythical creature.
+  A character discovers they are actually a reincarnated version of a legendary hero.
+  The hero discovers that the villain has a personal connection to them.
+  A seemingly minor character turns out to be a key player in the story's outcome.
+  The hero must journey to a parallel world or alternate dimension.
+  A character is revealed to be a shapeshifter or master of disguise.
+  The hero is faced with a difficult moral dilemma or choice.
+  A character must make a sacrifice to break an ancient curse.
+  The hero discovers that their journey was actually part of a larger, more significant plan.
+  The villain is revealed to have a secret weapon or ultimate weapon.
+= Plot Twist in Science Fiction
+  A character discovers they are not human, but rather an alien or artificial intelligence.
+  A dystopian society is revealed to be a simulated or virtual reality.
+  A character travels through time or alternate dimensions.
+  A long-lost technology or advanced civilization is discovered.
+  A character sacrifices their own life to save the future.
+  A character discovers they have hidden abilities or powers.
+  The hero discovers that their enemy is actually a benevolent ally.
+  A character must choose between loyalty to their own kind or to humanity.
+  A mysterious force or entity is revealed to be controlling events.
+  The hero discovers that their quest was actually a test or experiment.
+  The villain is revealed to have a secret weapon or ultimate weapon.
+  The hero is faced with a difficult moral dilemma or choice.
+  A character discovers that their world is not real, but a simulated or virtual one.
+  A character must choose between two conflicting paths or visions for the future.
+  A war between multiple species or civilizations is revealed to be part of a larger conflict.
+  A character is revealed to have been alive for centuries or even millennia.
+  The hero discovers that the object of their quest is actually a trap or lure.
+  The hero is revealed to have a personal connection to the villain.
+  A character is revealed to have been cloned or artificially created.
+  The hero discovers that their actions have unintended consequences on the future.
+= Plot Twist in Detective stories
+  The main suspect turns out to be innocent, and the real murderer is someone unexpected
+  The detective is revealed to have a personal connection to the case or the murderer
+  The murder was motivated by a long-forgotten event from the past
+  The detective realizes that they have been manipulated or misled throughout the investigation
+  The main witness or informant is revealed to have a hidden agenda or to be unreliable
+  The detective discovers that the murder was committed for seemingly mundane or petty reasons
+  The murder was committed by a group of people working together, not a single person
+  The detective is being watched or followed by the murderer or an accomplice
+  The victim was actually alive and in hiding, and their supposed murder was staged
+  The detective discovers that they were mistaken about key details in the case, leading them down the wrong path
+  The murder was a case of mistaken identity, and the victim was not the intended target
+  The detective realizes that the murderer is someone they thought they could trust
+  The murder was committed in self-defense, making it a complex and morally ambiguous case
+  The murderer was driven by a complex psychological motive, such as a traumatic past experience
+  The detective discovers that the case is part of a larger conspiracy or criminal enterprise
+  The murderer was influenced by a cult or other fringe group with strange beliefs or practices
+  The victim was involved in illegal or unethical activities that led to their death
+  The detective is betrayed by a close ally or colleague, making them doubt their own judgment
+  The murderer is revealed to have multiple personalities, leading the detective to question their own sanity
+  The case is connected to another case from the detective's past, leading to a dramatic conclusion.
+= Plot Twist in Mysteries
+  The main suspect turns out to be innocent, and the real murderer is someone unexpected
+  The detective is revealed to have a personal connection to the case or the murderer
+  The murder was motivated by a long-forgotten event from the past
+  The detective realizes that they have been manipulated or misled throughout the investigation
+  The main witness or informant is revealed to have a hidden agenda or to be unreliable
+  The murderer is revealed to be someone the detective thought they could trust
+  The murder was committed in self-defense, making it a complex and morally ambiguous case
+  The detective discovers that the murder was part of a larger conspiracy or criminal enterprise
+  The murderer was driven by a complex psychological motive, such as a traumatic past experience
+  The victim was involved in illegal or unethical activities that led to their death
+  The murder was a case of mistaken identity, and the victim was not the intended target
+  The detective realizes that the murderer is someone they thought they could trust
+  The detective discovers that the case is connected to another case from their past
+  The murderer was influenced by a cult or other fringe group with strange beliefs or practices
+  The detective is betrayed by a close ally or colleague, making them doubt their own judgment
+  The murderer is revealed to have multiple personalities, leading the detective to question their own sanity
+  The victim was alive and in hiding, and their supposed murder was staged
+  The murder was committed by a group of people working together, not a single person
+  The detective is being watched or followed by the murderer or an accomplice
+  The detective discovers that they were mistaken about key details in the case, leading them down the wrong path.
+= Plot Twist in Romance
+  The revelation of a secret or hidden identity
+  A misunderstanding that threatens to tear the couple apart
+  A sudden change of heart that leads to a shift in the relationship
+  A revelation about a past relationship that complicates the current one
+  A rival who tries to steal one of the lovers away
+  A dramatic event or crisis that forces the couple to reevaluate their feelings
+  A twist that makes the couple realize they are meant to be together
+  The return of a former flame who complicates the current relationship
+  A sudden obstacle that the couple must overcome to be together
+  A dramatic change of circumstances that tests the couple's love
+  The discovery of a deep-seated lie or deception
+  A mistaken belief or false impression that causes trouble in the relationship
+  The loss of a loved one that brings the couple closer together
+  A discovery that leads to a change in the power dynamic between the couple
+  A revelation that changes one of the characters in a significant way
+  A journey or adventure that strengthens the couple's bond
+  A revelation that leads to a shift in the relationship's goals and priorities
+  The introduction of a third party who threatens to come between the couple
+  A shocking revelation that threatens to destroy the relationship
+  A twist that leads to a happy ending for the couple, despite the odds against them.
+= Plot Element
+  {Plot Element in Detective Stories}
+  {Plot Element in Fantasy}
+  {Plot Element in Mysteries}
+  {Plot Element in Romance Stories}
+  {Plot Element in Science Fiction}
+  {Plot Element in Soap Operas}
+  {Plot Element in Westerns}
+= Plot Element in Soap Operas
+  Family drama and conflicts
+  Romance and love triangles
+  Secrets and lies
+  Illness and medical crises
+  Wealth and power struggles
+  Betrayal and revenge
+  Jealousy and envy
+  Marriage and divorce
+  Career struggles and business dealings
+  Murder and mystery
+  Gossip and rumors
+  Addiction and recovery
+  Births, deaths, and resurrections
+  Amnesia and memory loss
+  Moral dilemmas and choices
+  Political intrigue and corruption
+  Spirituality and the supernatural
+  Reconciliation and forgiveness
+  Aging and illness
+  New arrivals and departures
+= Plot Element in Westerns
+  Frontier life and the American frontier
+  Gunfights and shootouts
+  Cattle drives and rustling
+  Stagecoach and train robberies
+  Wanted posters and bounties
+  Outlaw gangs and lawmen
+  Horseback riding and riding skills
+  Cowboy code of honor and loyalty
+  Saloons and gambling
+  Showdowns and duels
+  Indian attacks and battles
+  Hunting and survival skills
+  Campfires and cookouts
+  Exploring the unknown and mapping the wilderness
+  Indian negotiations and treaties
+  Gold rushes and mining towns
+  Wells Fargo and stagecoach companies
+  Buffalo hunting and skinning
+  The settling of the West and building of towns
+  Frontier justice and vigilante justice
+= Plot Element in Fantasy
+  Magic and supernatural powers
+  Dragons and mythical creatures
+  Quest and journey
+  Good vs. evil and moral conflicts
+  Enchantment and curses
+  Alternate realities and parallel universes
+  Prophecy and destiny
+  Wizards and sorcerers
+  Epic battles and wars
+  Dragons and other fantastical beasts
+  Kings and queens, lords and ladies
+  Kingdoms and empires
+  Forbidden love and star-crossed romance
+  Hidden worlds and secret societies
+  Elementals and nature spirits
+  Time travel and parallel dimensions
+  Ancient ruins and lost civilizations
+  The discovery of magical artifacts
+  Shapeshifting and metamorphosis
+  The end of the world and the ultimate fate of humanity
+= Plot Element in Science Fiction
+  Futuristic technology and advancements
+  Space travel and extraterrestrial life
+  Artificial intelligence and robots
+  Time travel and alternate dimensions
+  Genetic engineering and cyborgs
+  Virtual reality and simulated worlds
+  Advanced weapons and military technology
+  Extraterrestrial invasions and first contact
+  Post-apocalyptic worlds and survival
+  Dystopian societies and government control
+  The Singularity and transhumanism
+  Artificial intelligence and machine learning
+  Space exploration and colonizing other planets
+  Teleportation and faster-than-light travel
+  Advanced medicine and life extension
+  Energy sources and environmental disasters
+  Paranormal and supernatural abilities
+  Interplanetary diplomacy and first contact with alien life forms
+  Scientific breakthroughs and new discoveries
+  The meaning of life and the future of humanity.
+= Plot Element in Detective Stories
+  Tough, cynical, and experienced detective
+  Gritty and realistic city setting, often with elements of corruption
+  Cases that involve organized crime, murder, and vice
+  A strong focus on realism and social commentary
+  A loner detective who operates outside the law
+  The use of violence and intimidation to solve cases
+  Relationships with shady underworld figures and informants
+  Themes of justice, morality, and human frailty
+  Noir-style cinematography and atmospheric storytelling
+  Twisty plots and surprises that keep the reader guessing
+  A reliance on dialogue and internal monologue to reveal character
+  A hard-drinking detective who is haunted by personal demons
+  A criminal underworld populated by colorful, larger-than-life characters
+  Themes of loneliness and existential questions
+  A tendency to play with narrative structure and reader expectations
+  Detective's strained relationships with the police, press, and public
+  An anti-hero detective who operates in a gray area of the law
+  Themes of power, greed, and corruption
+  The use of technology, including phones, radios, and automobiles
+  A tense and suspenseful atmosphere that keeps the reader on the edge of their seat
+= Plot Element in Romance Stories
+  Time travel between different eras or dimensions
+  A love triangle involving supernatural creatures such as vampires, werewolves, or faeries
+  A secret society or hidden world that operates outside of society's norms
+  A forbidden love affair between two people from different social classes
+  A love interest who is a ghost or other supernatural entity
+  Love developing between characters who initially dislike or distrust each other
+  A forbidden love affair between two people of the same gender
+  Love developing between characters who are communicating telepathically
+  A love affair between two people who are unable to physically touch each other
+  A love interest who is an AI or other form of advanced technology
+  A love interest who is a shapeshifter, and their partner never knows who they truly are
+  Love blooming between characters who are reincarnated from past lives
+  Love developing between characters who have been abducted by aliens or otherworldly beings
+  A love triangle that involves alternate realities or parallel universes
+  A love interest who is from a different planet or dimension
+  A love affair that takes place within a dream or fantasy world
+  Love developing between characters who are mortal enemies in a larger conflict
+  A love interest who is a historical figure or famous person
+  Love blooming between characters who are bound by a curse or magical spell
+  Love developing between characters who are trapped in an alternate timeline or reality.
+= Plot Element in Mysteries
+  A crime or murder that needs to be solved
+  A detective or amateur sleuth who investigates the crime
+  A list of suspects with possible motives for the crime
+  A ticking clock element that increases the urgency of the investigation
+  Clues and red herrings that lead the detective down different paths
+  An investigation that reveals hidden secrets and past events
+  Interviews and interrogations of suspects and witnesses
+  A confrontation with the murderer or culprit
+  The discovery of unexpected motives and reasons behind the crime
+  The use of forensic evidence to solve the case
+  The gradual piecing together of the events leading up to the crime
+  A sense of danger or threat as the detective gets closer to the truth
+  A twist or reveal that changes the perception of the crime or the characters involved
+  The gradual development of the detective's theories about the case
+  The presence of a sidekick or partner who helps the detective with the investigation
+  The impact of the crime on the community and its residents
+  The use of technology, such as surveillance cameras or online databases, to aid in the investigation
+  A final showdown between the detective and the murderer
+  A resolution that ties up all the loose ends and brings closure to the case
+  A subtle exploration of morality and ethics, as the detective grapples with the difficult decisions they face during the investigation.

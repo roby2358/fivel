@@ -1,0 +1,18 @@
+= |cat vowel phonemes
+  32 a
+  32 e
+  32 o
+= |cat consonant phonemes
+  32 m
+  32 r
+  32 h
+  32 f
+= |cat combo phonemes
+  32 nj
+= cat words
+  16 {|cat combo phonemes}{|cat vowel phonemes}{|cat consonant phonemes}
+  16 {|cat combo phonemes}{|cat vowel phonemes}{|cat consonant phonemes}{|cat vowel phonemes}{|cat consonant phonemes}
+  16 {|cat vowel phonemes}{|cat consonant phonemes}{|cat vowel phonemes}
+  16 {|cat consonant phonemes}{|cat vowel phonemes}{|cat consonant phonemes}
+  16 {|cat consonant phonemes}{|cat vowel phonemes}{|cat consonant phonemes}{|cat vowel phonemes}
+  16 {|cat vowel phonemes}{|cat consonant phonemes}{|cat consonant phonemes}{|cat vowel phonemes}

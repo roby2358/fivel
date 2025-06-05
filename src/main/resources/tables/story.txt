@@ -1,0 +1,315 @@
+= Challenge
+  - story \ group \ culture \ cultural tension \ buddhist realm
+= Logline
+#  CHARACTER in SETTING pursues GOAL but CRISIS
+  {Life Prompt} MC pursues {threat} but faces {threat} when {Plot Twist}
+= Logline 2
+#  In a world where situation, protagonist must goal before urgency or else stakes
+  - In a world where ({Plot Element})\n- MC must ({threat})\n- before ({threat})\n- or else ({|stakes})
+= Logline 3
+# When incident occurs, character with role and motivation pursues goal, only to discover that opposition threatens disaster
+  When {Plot Twist} occurs, MC with {Plot Element} risks {|stakes} pursues {|objective}, only to discover that {threat} threatens {Plot Twist}
+= Story
+  - {|connection} {|lead}\n- who must {|objective}\n- despite {threat}
+= Protagonist
+  {|Connection} risks {|Stakes} as {|Lead}
+= Exposition
+  - Put action in the background
+  - They need it to survive
+  - They argue about it
+  - Weave it in
+  - Allude to it
+  - Push it beneath the surface
+  - Jazz it up
+= Story Riveting
+  Readers love to worry
+  Once they engage, they need to know more
+  They need to know what happens to characters who fascinate them
+  Create whirlpools of fate
+  No plan survives
+  No good choices, and no going backward
+  Nothing is what it seems
+  If they haven't lost it all, they are about to
+  At the end of this scene, the character could DIE
+  Readers ain't happy unless they're chewing their nails to the bone
+  Once they're hooked, they gotta have more. They can't sleep 'til they know
+  Characters that get under their skin, readers need to know their every move
+  Create a maelstrom of destiny that'll swallow 'em whole
+  No plan stands a chance in the face of the unexpected
+  Ain't no easy way out, and no turning back. It's do or die
+  Nothing is ever what it seems, and trust ain't worth a damn
+  If they ain't lost everything yet, they will. And it'll hurt
+  When the curtain falls on a scene, the Grim Reaper could be waiting in the wings
+  Twists and turns that'll spin their heads like a tornado
+  Characters better change and grow, or they're gonna get left in the dust
+  Conflict ain't just a spice of life, it's a full-on fistfight
+  Setting that's so real you can taste the sweat in the air
+  Dialogue that cuts like a knife, slicing to the bone of the matter
+  Flashbacks and backstory that'll rattle their bones and break their hearts
+  Foreshadowing that'll make 'em hold their breath, waiting for the other shoe to drop
+  A good belly laugh that'll keep 'em sane when everything else is goin' to hell
+  The endgame that'll leave 'em reelin' with satisfaction or gaspin' in disbelief
+  The hero ain't gotta be no saint, but they damn well better be interestin'
+  Readers revel in the thrills and chills of adventure.
+  Once they're gripped, they crave every detail.
+  Characters that capture their imaginations must be followed to the ends of the earth.
+  Weave a web of fate so tangled and twisted, even the gods themselves could not unravel it.
+  No plan can withstand the unexpected twists of destiny.
+  There's no turning back once the die is cast, and only the courageous dare to forge ahead.
+  Trust no one, for deception lurks at every turn.
+  Only when everything is lost can true heroism emerge.
+  At the end of each scene, the hero's fate hangs in the balance.
+  Shocking revelations and daring escapes keep readers on the edge of their seats.
+  Characters must evolve and overcome adversity to achieve greatness.
+  Conflict is the fuel that drives the story, and the greater the danger, the sweeter the triumph.
+  The setting must transport readers to far-off lands, teeming with wonder and danger.
+  Dialogue must be sharp and evocative, revealing the essence of each character's soul.
+  Flashbacks and backstory enrich the narrative, providing insights into the past that shape the present.
+  Foreshadowing creates an air of mystery and intrigue, hinting at the wonders to come.
+  A well-placed joke can bring relief amidst the most dire circumstances.
+  The climax must be a spectacle of epic proportions, leaving readers breathless and sated.
+  The hero may be flawed, but they possess a noble spirit that inspires us all.
+  Readers hunger for the pulse-pounding thrill of adventure.
+  Once they're caught in the grip of the story, they crave every gritty detail.
+  Characters that seize their imaginations must be followed to the ends of the earth.
+  Weave a web of fate so dark and twisted, it would make even the devil shudder.
+  No plan can withstand the brutal forces of fate.
+  There's no turning back once the die is cast, and only the strong survive.
+  Trust no one, for betrayal is the knife that cuts deepest.
+  Only when all hope is lost can true courage emerge.
+  At the end of each scene, the specter of death looms over the horizon.
+  Shocking revelations and thrilling battles keep readers on the edge of their seats.
+  Characters must be forged in the fires of conflict, growing and evolving to overcome the challenges they face.
+  Conflict is the lifeblood of the story, driving the narrative forward with ferocious intensity.
+  The setting must be richly imagined and vividly rendered, a living, breathing world that readers can lose themselves in.
+  Dialogue must be sharp and brutal, a reflection of the harsh realities of the world.
+  Flashbacks and backstory add depth and nuance to the story, revealing the hidden secrets of the past.
+  Foreshadowing creates a sense of ominous dread, hinting at the horrors yet to come.
+  A well-placed joke can bring a moment of levity amidst the blood and thunder.
+  The climax must be an epic clash of titans, leaving readers gasping for breath.
+  The hero may be flawed, but they possess an iron will that never breaks, no matter how dire the circumstances.
+  Readers crave the high-octane, bombastic excitement of epic adventure.
+  Once they're hooked, they're hungry for every single mind-bending detail.
+  Characters that capture their imagination must be followed through every wild twist and turn.
+  Weave a web of fate so bizarre and otherworldly, it'll send readers hurtling through the cosmos.
+  No plan can withstand the titanic forces of the multiverse.
+  There's no turning back once the cosmic journey begins, and only the boldest can make it to the end.
+  Trust no one, for dark forces lurk in the shadows of the universe.
+  Only when all hope is lost can the true hero emerge from the chaos.
+  At the end of every scene, the fate of the universe hangs in the balance.
+  Mind-bending plot twists and interdimensional battles keep readers on the edge of their seat.
+  Characters must evolve and transform into the ultimate cosmic warrior.
+  Conflict is the driving force of the story, taking readers on a rollercoaster ride through the vast reaches of the cosmos.
+  The setting must be epic and awe-inspiring, transporting readers to worlds beyond their wildest dreams.
+  Dialogue must be bold and cosmic, reflecting the true nature of the multiverse.
+  Flashbacks and backstory provide depth and nuance to the story, revealing the secrets of the cosmic warriors.
+  Foreshadowing creates a sense of epic anticipation, hinting at the staggering battles to come.
+  A well-timed wisecrack can bring a moment of levity amidst the cosmic drama.
+  The climax must be an epic, universe-shattering battle, leaving readers in a state of cosmic awe.
+  The hero may be flawed, but their indomitable cosmic spirit is never broken, even in the face of infinite peril.
+= |Lead
+  - Hero (Positive, embodies morality of the community)
+  - Negative (opposed to collective moral code)
+  - Anti-hero (acts on personal code independent of morality of the community)
+= |Connection
+  - Empathy: Identification with
+  - Sympathy
+  - Terrible emotional trouble
+  - Terrible physical trouble
+  - Hardship
+  - Underdog
+  - Vulnerable
+  - Likeable
+  - Caring
+  - Depth
+  - Inner Conflict
+  - Interesting work
+  - Obsession
+  - Burning issue
+= |Objective
+  - Get {threat}
+  - Get away from {threat}
+  - Protect {threat}
+  - Rescue {threat}
+  - Death stakes {|objective}
+  - Conflict {|objective}
+  - Readers want to worry {|objective}
+= |Stakes
+  - Death
+  - Ego death
+  - Death of other
+  - Separation
+  - Loss of power
+= Knock Out
+  - Lead wins objective
+  - Lead loses objective
+  - Lead wins objective, loses something valuable
+  - Lead loses objective, gains something valuable
+  - Left open
+  - Resonance, last impression
+= Exercises
+  - Develop 3 scene ideas that reveal each type of connection with lead
+  - Write opponent's closing argument
+  - Ask a dumb question, get a smart answer
+  - Always look for another right answer
+  - Weekly creativity time
+  - First line game
+  - Match occupations with characters
+  - So what, why
+  - scene ideas 20 or 30, how are they connected
+  - Market research: Best sellers by genre
+  - Write the paragraph that would appear in a piece of fiction just before the discovery of a body
+  - Describe an event, using the same characters and elements of setting, in five completely different ways
+  - Write 3 effective long sentences: each at least one full typed page (or 250 words), each involving a different emotion
+  - Describe a landscape as seen by an old woman whose disgusting and detestable old husband has just died. Do not mention the husband or death
+  - Describe a lake as seen by a young man who has just committed murder. Do not mention the murder
+  - Describe a landscape as seen by a bird. Do not mention the bird
+  - Describe a building as seen by a man whose son has just been killed in a war
+  - describe the same building, in the same weather and at the same time of day, as seen by a happy lover. Do not mention love or the loved one
+  - Write an opening using authorial omniscient voice
+  - Write an opening in which the point of view is third person objective
+  - Write a monologue of at least three pages
+  - Write a dialogue in which each of the two characters has a secret
+  - Write a two page (or longer) character sketch using objects, landscape, weather, etc., to intensify the readers' sense of what the character is like
+  - Write a two page (or longer) dramatic fragment (part of a story) using objects, landscape, weather, etc., to intensify characters, as well as the relationship between them
+  - Develop the plot of a short story using objects, landscape, weather, etc., to intensify characters, as well as the relationship between them
+  - Describe and evoke a simple action
+  - Write a brief sketch in the essayist omniscient voice
+  - Write an acceptable example of purple prose: that is, highly self conscious and arty prose made acceptable by subject, parodic intent, voice, etc
+  - Write a brief passage on some stock subject (a journey, a landscape, a sexual encounter) in the rhythm of a long novel
+  - Write a brief passage on some stock subject (a journey, a landscape, a sexual encounter) in the rhythm of a tight short story
+  - Write an honest and sensitive description (or sketch) of one of your parents
+  - Write an honest and sensitive description (or sketch) of a mythological beast
+  - Write an honest and sensitive description (or sketch) of a ghost
+  - Describe a character in a brief passage one or two pages) using mostly long vowels and soft consonants (o as in "moan," e as in "see", l, m, n, sh, etc.)
+  - Describe a character in a brief passage one or two pages) using mostly short vowels and hard consonants (I as in "sit", k, t, p, gg, etc.)
+  - Write a prose passage that makes effective and noticeable use of rhyme
+  - Write the first three pages of a tale
+  - Plot each of the following: a short short story, a yarn, a fable, a sketch, a tale, a short story, and energeic novel, an architectonic novel, a novel in which episodes are not casually related (allegorical or lyrical structure, for example), a radio play, an opera, a film that could only be a film
+  - In a fully developed monologue (see exercise 7) present a philosophical position you tend to favor, but present it through a character and in a context that modifies or undermines it
+  - Write a passage using abrupt and radical but thoroughly acceptable shifts from the authorial omniscient point of view to the third person subjective
+  - In a high parodic form, plot one of the following: a gothic, a mystery, a scifi, a western, a drug store romance
+  - Write the first three pages of the novel plotted in 23a, using the trash form as the basis of a serious piece of fiction
+  - Without an instant's lapse of taste, describe a person (a) going to the bathroom, (b) vomiting, (c) murdering a child
+  - Write a short piece of fiction in mixed prose and verse
+  - Write, without irony, a character's moving defense of himself
+  - Using all you know, write a short story about an animal for instance, a cow
+  - Write a short story about some well known legendary figure
+  - Write a true story using anything you need
+  - Write a fabulous story using anything you need
+# https://www.well-storied.com/blog/write-stronger-characters
+# https://www.writersdigest.com/improve-my-writing/8-ways-to-write-better-characters
+= Build Character
+  Establish role
+  Define narrative purpose
+  Construct identity
+    Age
+    Gender
+    Sexuality
+    Race
+    Religion
+    Ethnicity
+    Education
+  Consider name
+  Establish appearance
+    Height
+    Build
+    Age
+    Coloring
+    Mannerisms
+    Tics
+    Body language
+  Develop personality
+  Determine flaws
+  Identify false beliefs
+  Consider Worldview
+  Give a voice
+    Mindset
+    Speech patterns
+    Vocabulary
+    Opinions
+    Internal narrative
+    Body Language
+    Mannerisms
+  Quirks
+  Establish relationships
+  Define everyday reality
+  What they want
+  What they need
+  What they love
+  Goal
+  Motivation
+  History
+  Ghost
+  Desires
+  Interests
+  Agency
+  Relatable
+    Empathy: Identification with
+    Sympathy
+    Terrible emotional trouble
+    Terrible physical trouble
+    Hardship
+    Underdog
+    Vulnerable
+    Likeable
+    Caring
+    Depth
+    Inner Conflict
+    Interesting work
+    Obsession
+    Burning issue
+  Complexity
+  Emotional landscape
+  Make them sweat
+    Obstacle
+    Uncertainty
+  Fail
+  Suffer
+  Find happy place
+  Push to breaking point
+  Give them a refuge
+  Define their story
+    What was
+    What is
+    What will be
+  Relationship
+    Romantic
+    Parent/Child
+    Siblings
+    Aggressor/Victim
+    Rivals/Adversaries
+    Best Friends
+    Boss/Employee
+    Caregiver/Receiver
+    Cop/Criminal
+    Partners
+    Slave/Master
+    Human/Environment
+    Human/God
+    Human/Pet
+    Casual Acquaintances
+  Stop and think
+  Strong opinions
+  Willing to risk
+  Triangle / Rival
+  Group dynamic
+  Obligation
+  Ambiguity
+  Grudge
+= Plot
+  Overcoming the monster
+  Rags to riches
+  The quest
+  Voyage and return
+  Comedy
+  Tragedy
+  Rebirth
+= Pantsing
+  No but
+  No and
+  Yes but
+  Yes and
+  Set it on fire -- make it worse
+  Throw a curveball -- unintended consequence
+  Awkward family dinner -- get them talking

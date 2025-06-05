@@ -1,0 +1,97 @@
+= Medieval Item
+  {Medieval Everyday}
+  {Medieval Tool}
+  {Medieval Weapon}
+  {Medieval Jewelry}
+= Medieval Magic Item
+  1 {Medieval Everyday}
+  2 {Medieval Tool}
+  3 {Medieval Weapon}
+  5 {Medieval Jewelry}
+= Medieval Clothing
+  boots
+  cloak
+  coif
+  gloves
+  gown
+  hat
+  hood
+  mantle
+  scarf
+  shoes
+  surcoat
+  tunic
+= Medieval Everyday
+  anvil
+  baskets
+  bed
+  book
+  brooche
+  candle 
+  chair 
+  chamber pot
+  comb
+  fireplace
+  hourglass
+  jar
+  key
+  knive
+  mirror
+  musical instrument
+  plough
+  scale
+  scissors
+  shield
+  shovel
+  sword
+  table
+  tool
+  trencher (bread)
+  washtub
+= Medieval Tool
+  saw
+  hammer
+  chisel
+  spindle
+  shovel
+  scythe
+  compass
+  axe
+  mallet
+  mandrel
+= Medieval Weapon
+  2 sword
+  2 spear
+  1 axe
+  2 bow
+  1 hammer
+  2 dagger
+  1 mace
+  1 flail
+= Medieval Jewelry
+  3 tiara
+  3 crown
+  2 coronet
+  1 corolla
+  2 garland
+  1 earring
+  3 necklace
+  2 torc
+  1 choker
+  2 medallion
+  2 pendant
+  2 medal
+  3 amulet
+  3 brooch
+  2 armlet
+  2 bangle
+  2 bracelet
+  3 ring
+  1 prayer beads
+  1 prayer rope
+  1 belly chain
+  1 body piercings
+  2 buckle
+  1 chatelaine
+  1 anklet
+  1 toe ring

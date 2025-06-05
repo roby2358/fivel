@@ -1,0 +1,123 @@
+# Eric Berne's "Games People Play":
+= People Games
+  "If It Weren't For You": Blaming others for one's own failures or lack of success.
+  "Now I've Got You, You Son of a Bitch": Setting someone up to fail and then punishing them for it.
+  "Why Don't You - Yes But": Asking for advice and rejecting every suggestion offered.
+  "Look How Hard I've Tried": Demonstrating effort rather than achieving results to gain sympathy.
+  "See What You Made Me Do": Blaming others for one's mistakes or accidents.
+  "I'm Only Trying to Help You": Offering unsolicited advice to gain control or feel superior.
+  "Kick Me": Provoking others to mistreat or reject the person to reinforce their sense of victimhood.
+  "Poor Me": Seeking sympathy by constantly complaining about one's problems.
+  "So Harried": Staying busy to avoid facing personal issues.
+  "Yes, But": Engaging in a cycle of seeking advice and dismissing it to avoid change.
+  "Blemish": Criticizing to highlight their flaws and feel superior.
+  "Schlemiel": Making mistakes or causing trouble to get others to take care of you.
+  "Rapo": Flirting or teasing with no intention of following through, often to create confusion or tension.
+  "Cops and Robbers": Playing the roles of authority and rebel in an endless cycle of conflict.
+  "Debtor": Creating financial or emotional debts to keep others involved or obligated.
+  "Martyr": Sacrificing oneself to gain control, sympathy, or moral superiority.
+  "Greenhouse": Nurturing excessively to make the other dependent.
+  "Perfect Parent": Acting overly responsible and controlling to avoid addressing personal flaws.
+  "Tick for Tack": Trading small favors and keeping score to maintain a sense of balance and obligation.
+  "Helpless Helper": One person constantly needs help, and the other provides it to feel needed and superior.
+  "Tit for Tat": Reciprocal minor revenge acts, where both feel justified in their actions.
+  "Savior and Sinner": One person frequently makes mistakes, and the other steps in to "save" them, reinforcing their self-image.
+  "Critic and Victim": One criticizes to feel powerful, while the other accepts it to gain sympathy and avoid responsibility.
+  "Mind Reader": One person expects the other to know their needs without expressing them, creating a dynamic of frustration and assumed intimacy.
+  "Parent-Child": One takes on a nurturing, controlling role, while the other acts dependent and irresponsible.
+  "Teacher and Student": One always gives advice and guidance, maintaining control, while the other seeks constant learning and avoids decision-making.
+  "Hero and Martyr": One person constantly sacrifices for the other, who remains in a victim role to avoid taking responsibility.
+  "Yes, Dear": One always agrees to avoid conflict, giving the other a sense of control and authority.
+  "Project and Fixer": One person always needs "fixing" or improvement, and the other takes on the role of fixer to feel competent and needed.
+  "Push and Pull": One person alternates between needing closeness and pushing away, while the other chases, maintaining a dynamic of emotional turbulence.
+  "Perfectionist and Slacker": One sets high standards and the other deliberately underperforms, reinforcing each other's roles.
+  "Caretaker and Invalid": One takes care of all needs, gaining a sense of purpose, while the other remains passive and dependent.
+  "Dreamer and Realist": One person dreams big, while the other grounds them, creating a balance of optimism and realism.
+  "Flirt and Tease": One flirts without intent, and the other engages, both enjoying the thrill and attention without commitment.
+  "Blamer and Apologizer": One blames everything on the other, who constantly apologizes, maintaining a cycle of guilt and control.
+  "Drill Sergeant and Recruit": One gives orders and the other follows, creating a dynamic of authority and compliance.
+  "Nag and Avoider": One constantly nags to enforce standards, while the other avoids tasks to maintain independence.
+  "Provider and Dependent": One provides financial or emotional support, gaining a sense of importance, while the other remains dependent, avoiding responsibility.
+  "Martyr Complex": Taking on excessive burdens to appear selfless and earn praise.
+  "Peacekeeper": Avoiding conflict at all costs, often leading to unresolved issues.
+  "Saboteur": Undermining others' efforts subtly to maintain a sense of control and superiority.
+  "Social Climber": Befriending influential people for personal gain rather than genuine connection.
+  "All Work, No Play": Using busyness as an excuse to avoid intimacy and personal growth.
+  "Charm Offensive": Using charm and charisma to manipulate and evade criticism.
+  "Protector and Protected": One person acts as the protector, feeling strong and responsible, while the other enjoys the sense of safety and care.
+  "Challenger and Defeated": One person constantly challenges, feeling powerful and assertive, while the other accepts defeat to avoid effort and confrontation.
+  "Cheerleader and Performer": One person gives constant praise and encouragement, feeling supportive and positive, while the other seeks approval and validation.
+  "Interrogator and Responder": One asks probing questions to feel in control and knowledgeable, while the other provides answers to gain attention and feel important.
+  "Defender and Offender": One person takes on the role of defending against perceived offenses, gaining moral high ground, while the other enjoys pushing boundaries and testing limits.
+  "Needy and Giver": One constantly needs emotional or material support, reinforcing their dependency, while the other gains a sense of generosity and importance.
+  "Adviser and Seeker": One gives constant advice, feeling wise and helpful, while the other seeks advice to avoid making their own decisions.
+  "Persecutor and Persecuted": One person criticizes and blames, feeling justified and dominant, while the other plays the victim to gain sympathy and avoid responsibility.
+  "Explorer and Guide": One person seeks new experiences and the other provides guidance, both feeling adventurous and knowledgeable respectively.
+  "Validator and Validated": One provides constant validation and approval, feeling kind and supportive, while the other seeks validation to feel worthy.
+  "Competitor and Challenger": Both engage in constant competition, each feeling motivated and energized by the challenge.
+  "Strategist and Executor": One plans and strategizes, feeling intelligent and in control, while the other executes the plans, feeling capable and efficient.
+  "Mediator and Disputant": One acts as a mediator, feeling wise and fair, while the disputant gains a platform to express grievances and receive attention.
+  "Storyteller and Listener": One person tells stories to feel interesting and charismatic, while the other listens to feel entertained and engaged.
+  "Provoker and Reactor": One provokes reactions to feel influential and powerful, while the other reacts to feel involved and responsive.
+  "Complainer and Consoler": One person complains about their problems, gaining attention and sympathy, while the other consoles to feel empathetic and caring.
+  "Mystery and Solver": One person maintains an air of mystery, feeling intriguing and complex, while the other tries to solve the mystery, feeling clever and perceptive.
+  "Rebel and Enforcer": One person rebels against rules to feel independent and free, while the other enforces rules to feel authoritative and in control.
+  "Victim and Rescuer": One person presents themselves as a victim, gaining sympathy and support, while the other takes on the role of rescuer, feeling heroic and needed.
+  "Eccentric and Admirer": One acts in an eccentric manner to feel unique and special, while the other admires to feel inspired and entertained.
+# not transactional?
+  "Wooden Leg": Using a disability or disadvantage as an excuse for not succeeding.
+  "Ain't It Awful": Bonding over shared grievances and negativity.
+  "Drama Queen/King": Exaggerating situations to gain attention and sympathy.
+  "Uproar": Creating chaos to divert attention from personal issues or to feel alive.
+  "Always Right": Insisting on being correct to avoid feeling vulnerable or admitting mistakes.
+  "False Modesty": Downplaying achievements to fish for more compliments and reassurance.
+  "Last Minute Hero": Deliberately procrastinating to create a crisis that only they can resolve.
+  "Puppet Master": Manipulating others into conflict or action without appearing directly involved.
+  "Know-It-All": Dominating conversations with excessive knowledge to feel superior.
+  "Silent Treatment": Withholding communication to punish and control others.
+  "Yes-Man/Woman": Agreeing to everything to gain approval while harboring resentment.
+  "Forever Young": Refusing to grow up or take on responsibilities to avoid adult pressures.
+  "Busybody": Involving oneself in others' business to avoid focusing on personal issues.
+  "Pretend Helper": Offering help but ensuring it's ineffective to maintain control and dependency.
+  "Pity Party": Constantly seeking sympathy by portraying oneself as a perpetual victim.
+  "Moral High Ground": Using ethics and morality to judge others and feel superior.
+  "Echo": Repeating others' opinions to blend in and avoid standing out or being challenged.
+  "Cold Shoulder": Acting distant and uninterested to manipulate others into seeking approval.
+  "Invisible Man/Woman": Staying in the background to avoid responsibility while quietly influencing events.
+  "Bad Influence": Encouraging others to make poor choices to feel superior when they fail.
+  "Gaslighter": Manipulating others into doubting their reality to gain control.
+  "Chameleon": Changing behavior and opinions to fit in with different groups, losing authenticity.
+  "False Optimist": Pretending everything is fine to avoid dealing with problems.
+  "Emotional Blackmailer": Using emotions to manipulate others into compliance.
+  "Overachiever": Overworking and overcommitting to gain approval and avoid personal issues.
+  "The Tattler": Reporting others' mistakes to authorities to gain favor and feel powerful.
+  "Compliment Fisher": Dropping hints about insecurities to receive compliments and reassurance.
+  "Blame Shifter": Deflecting responsibility for mistakes onto others to avoid accountability.
+  "Perpetual Apologizer": Constantly apologizing for minor things to avoid conflict and garner sympathy.
+  "Rebel Without a Cause": Opposing authority and rules for the sake of rebellion without a clear reason.
+  "Glory Hog": Taking credit for others' work to appear more capable and impressive.
+  "Debbie Downer": Bringing negativity into every situation to gain sympathy and avoid addressing personal happiness.
+  "Gossip King/Queen": Spreading rumors to feel important and control social dynamics.
+  "Perfectionist": Setting unattainable standards for oneself and others to avoid vulnerability.
+  "Chronic Excuser": Always having excuses to avoid taking responsibility or making changes.
+  "Emotional Dump Truck": Overloading others with personal problems without reciprocating support.
+  "Fearmonger": Spreading fear to manipulate and control others' actions and decisions.
+  "One-Upper": Always trying to outdo others' stories or achievements to feel superior.
+  "Ghoster": Disappearing from relationships or commitments without explanation to avoid confrontation.
+  "Sympathy Seeker": Exaggerating or fabricating problems to gain sympathy and attention.
+  "Manipulator": Using deceit and flattery to control others and get what they want.
+  "Over-Analyzer": Obsessively dissecting situations to avoid taking action or facing emotions.
+  "Fake Friend": Pretending to be supportive while secretly undermining others.
+  "Over-Sharer": Sharing too much personal information to create a false sense of intimacy.
+  "Judgmental Jane/Joe": Criticizing others to feel morally superior without examining their own flaws.
+  "The Hoarder": Accumulating resources or tasks to feel in control while creating dependency in others.
+  "Escape Artist": Constantly seeking ways to avoid responsibilities or uncomfortable situations.
+  "False Altruist": Performing acts of kindness with the primary goal of being praised and admired.
+  "Shadow Leader": Influencing decisions from behind the scenes without taking official responsibility.
+  "Skeptic": Doubting and questioning everything to avoid commitment and decision-making.
+  "Vicarious Lifer": Living through others' experiences and achievements to avoid addressing their own life.
+  "Double Agent": Pretending to be loyal to multiple parties while manipulating them against each other.
+  "Chronic Complainer": Constantly finding faults in situations to avoid taking positive actions.
+  "Fantasy Builder": Creating elaborate fantasies to escape reality and avoid dealing with actual problems.
+  "Negative Nancy/Nick": Focusing on the negative aspects of any situation to avoid taking risks or making changes.
+  "Self-Saboteur": Engaging in behaviors that hinder their own success to maintain a sense of control and avoid new challenges.

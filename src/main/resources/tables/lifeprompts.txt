@@ -1,0 +1,209 @@
+= Life Prompt
+  {Life Prompt Positive}
+  {Life Prompt Negative}
+= Life Prompt Threat
+  Despite {Threat}, {Life Prompt}
+= Life Prompt Positive
+  What was their best year in school or youth?
+  What was the best summer of their life?
+  Are they married? How did they meet their spouse?
+  Do they have children? What have they learned from being a parent?
+  Have they lost their virginity, and if so, how?
+  Who was their greatest love?
+  What was a time their father was kind to them?
+  What was a time their mother was kind to them?
+  What was a time they achieved their parents' career or life expectation for them?
+  What was their first significant purchase for themselves?
+  How did they recover from abuse that they suffered?
+  When did they move into their favorite home?
+  What is their greatest victory?
+  Have they ever bested a rival?
+  What was the luckiest thing that ever happened to them?
+  Who made them the happiest?
+  What is their proudest accomplishment?
+  What does their name mean?
+  What place would they like to return to?
+  Who have they forgiven?
+  What was the first great challenge they had to face alone?
+  What is their favorite myth or legend?
+  What is the greatest treasure they've owned?
+  Have they ever felt a special bond with an animal or creature?
+  When was the first time they used magic or technology?
+  Have they ever had a vision or calling?
+  Do they have any unsolved mysteries in their families' history?
+  What's the most important thing they've taught someone?
+  Who is their most important teacher?
+  What was a time they felt completely fulfilled?
+  Have they ever had a dream that came true?
+  Who raised them, if not their parents?
+  Have they ever discovered they have a secret talent or power?
+  What traumatized them as a youth?
+  Have they received any advanced training?
+  Have they received a gift that changed the course of their life?
+  What was the moment they felt the happiest?
+  What was their most generous moment?
+  Have they ever left a loved one behind to fulfil a duty?
+  Have they ever betrayed a duty to care for a loved one?
+  What was a time they tried something new?
+  What was a time they built something with their friends?
+  What was a time they broke something and couldn't fix it?
+  What is the greatest reward they've ever received?
+  Have they ever taken a risk that paid off?
+  What was their most courageous moment?
+  What did they learn from the most difficult situation they've ever been through?
+  What was a time they followed their heart instead of their head?
+  What was a time they made a difficult decision and were glad they did?
+  What is the most difficult personal challenge they have ever faced?
+  What is their proudest moment of leadership?
+  What was a time they trusted someone that they shouldn't have?
+  What was a time they took a huge leap of faith?
+  What was the most spiritual experience they've ever had?
+  Who are their biggest sources of inspiration?
+  Have they ever had a moment of clarity?
+  What was a time they challenged their own beliefs?
+  What is the most valuable lesson they've learned from a mentor?
+  Have they ever had a moment of epiphany?
+  What is the most difficult decision they have ever made?
+  Have they ever endured a period of great hardship?
+  What was the most difficult thing they've ever achieved?
+  What have they done that they are most proud of?
+  What have they learned from their mistakes?
+= Life Prompt Negative
+  What was their worst relationship?
+  How did their last relationship end?
+  What was a time their father was cruel to them?
+  What was a time their mother was cruel to them?
+  What was a time they neglected their life for their career?
+  What was a time they neglected their career for life?
+  What was a time they defied their parents' career or life expectation for them?
+  Have they ever lost everything?
+  Have they ever lost a good friend?
+  Did they have to give something up to fit in?
+  Did they refuse to give something up, and pay a price?
+  Did they experience verbal abuse as a child?
+  What was the saddest time they had to leave a home?
+  Have they ever had to leave something important behind?
+  What is their most humiliating defeat?
+  Has a rival ever humiliated them?
+  Have they ever started a huge project and run out of patience in the middle?
+  Have they ever spent a day without eating?
+  Have they ever slept outside because they couldn't find a place to sleep?
+  Have they ever hurt someone without good reason?
+  Have they ever rejected affection from someone inappropriately?
+  Did they ever break their own code of honor?
+  What was their greatest disappointment?
+  Who do they most regret hurting?
+  What place would they never return to?
+  Who can they not forgive?
+  What was a time they felt greatly ashamed?
+  What is the greatest treasure they've lost?
+  Have they ever been lost?
+  Have they ever been unable to return home?
+  Have they ever had a dream that haunted them?
+  What was a time they lost their mind?
+  Do they have a family debt to fufil?
+  Do they have a hereditary conflict with someone?
+  Do they hold a secret?
+  Is their childhood a lie?
+  Have they ever been attacked by a monster?
+  What is the most terrifying event they've experienced or witnessed?
+  Have they ever been trapped and feared for their life?
+  Have they ever lost a loved one to disease?
+  Were they forced into any beliefs?
+  Were the overshadowed by anyone in their youth?
+  Have they ever come close to death?
+  What is the worst nightmares they've have?
+  Did they lose a parent?
+  Did they lose both parents?
+  Were they bullied?
+  What shame do they carry that they can't release?
+  Have they ever desperately needed to get somewhere, with no means to get there?
+  Have they ever gotten lost and been in mortal danger?
+  What is the worst storm they ever lived through?
+  What was the moment they felt most frightened?
+  What was their most cruel moment?
+  What was a time they broke the rules?
+  What is the greatest punishment they've ever received?
+  Have they ever falsified a document?
+  Have they ever used deceit for profit?
+  Have they made a career of deception?
+  Do they have a secret they would kill for?
+  Have they ever killed to protect themselves?
+  Have they ever killed to protect someone?
+  Have they ever killed out of anger?
+  Have they ever killed for greed?
+  Have they ever been betrayed by someone close?
+  Have they ever been in a situation that seemed impossible to escape?
+  Have they ever been imprisoned?
+  Have they ever suffered a life-threatening illness?
+  Have they ever been abandoned by a loved one?
+  Have they ever felt hopeless and alone?
+  Have they ever been on the run?
+  Have they ever been threatened by someone they don't know?
+  Have they ever been held at gunpoint?
+  Have they ever been attacked by an animal?
+  Have they ever had to fight for their life?
+  Have they ever been forced to make a difficult decision?
+  Have they ever been taken advantage of?
+  Have they ever had to lie to protect someone?
+  Have they ever been blackmailed?
+  Have they ever seen someone die?
+  Have they ever been in a situation where death seemed imminent?
+  Have they ever felt powerless?
+  Have they ever had to face a harsh truth?
+  Have they ever felt the need to be somebody else?
+  Have they ever felt like they didn't fit in?
+
+
+# Kelly Barnhill is Now a Dragon https://twitter.com/kellybarnhill/status/1581688896131256322
+# I have one of the neighbor kids over at my house at present, working
+# on his college essay. I've been doing this a lot lately (we have a gaggle
+# of kids on the block who are all the same age, all grew up together, and
+# are now all seniors) and every time it's the same:
+# They come in absolutely deer-in-headlights, either with nothing other
+# than a handful of crumpled notes or an essay that they can't use because
+# it's too long or just not understanding what this kind of writing is for
+# or what it's supposed to do. I sit them down on the couch,
+# and then we have tea (the tea is essential, obviously). And then I make
+# them put their laptop aside, we talk a little bit about life, or worries,
+# or the world. We talk about memories. I have them tell me stories.
+# And then I hand them an old notebook, and I start lobbing writing prompts
+# at them. I tell them that they don't have to worry about any of this - no
+# one will see it. They just have to keep their pencil going for five minutes
+# and then stop when the timer goes off.
+# I tell them to write about a memory, pretending that it's happening right
+# this very second. I have them write about a choice they had to make as though
+# it was happening right now. I have them write about food, or work, or the
+# bus, or snow.
+# I tell them to tell me a story about a time they broke the rules, or tried
+# something new, or built something with their friends. We talk about sense
+# memory - how we experience the world with our whole body even though we
+# don't always realize it. How memory lives in our skin.
+# I have them write jokes, treatises, manifestos. I have them make graphic
+# essays. Comics. Yard signs. I have them make lists. We talk about verbs.
+# We talk about how we know what we know. We talk about the permeable membrane
+# between memory and imagination.
+# It's such a strange form of writing, for them, and most of them have
+# never done anything like it before - writing in their own distinctive voice,
+# writing about their own unique experiences, writing a story with themselves
+# at the center.
+# One kid said, "But how can I write that? Doesn't it need to be *about*
+# something?" And I say, "Yes. It is. It's about YOU. What you've written
+# is a bunch of paragraphs about your grandma. And she's great! But what
+# we need to focus on is YOU."
+# They've literally never done this before. It's outside of their experience.
+# I have them write in the present tense. I use the word "immediate" a lot.
+# We talk about writing as a three-dimensional experience. But mostly, I
+# just have them write. Over and over. Quick and messy.
+# Invariably, there's a moment. They will have pages and pages of material.
+# Memories. Moments. Thoughts. Arguments. Explanations. Seeing their point
+# of view as something that belongs entirely to them. And then they see it.
+# An arc. A beginning, middle and end. "Oh!" they say.
+# I tell them, "You are the world's leading expert on YOU. And that can
+# be hard because you don't know yourself all that well. That's our job as
+# human beings, to understand ourselves so we can understand the world. Other
+# people might have insight and knowledge of you,
+# and sometimes they might even understand aspects of your self or personality
+# or life that even you don't really know. But the only person who can possibly
+# know the fundamental YOU-ness of you. So you get to write that with confidence
+# and authority. You're the expert."

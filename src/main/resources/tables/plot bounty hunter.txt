@@ -1,0 +1,128 @@
+= Plot Bounty Hunter
+  Please generate a 200-word summary of a story. Begin by naming and describing the main character and their unique personality and motivation: {|Bounty Hunter Motivations}. However, the character's motivations must not be stereotypical or dull. After {|Bounty Hunter Inciting Incidents}, they must strive towards achieving a specific goal of {|Bounty Hunter Goals}, but they must overcome an obstacle, {|Bounty Hunter Obstacles}. Suddenly, there should be an unexpected twist {|Bounty Hunter Twists} that takes it in a new and exciting direction. Finally, the story should culminate in a dramatic crisis that brings everything to a thrilling conclusion {|Bounty Hunter Dramatic Crisis}. Please be creative and have fun with this writing exercise!
+= |Bounty Hunter Inciting Incidents
+  A notorious criminal has escaped from prison and He/she is hired to track them down.
+  A wealthy client hires He/she to protect them from a dangerous rival.
+  He/she receives a tip about the whereabouts of a long lost family member.
+  His/her mentor is murdered and they vow to seek revenge.
+  A high profile assassination attempt is made on a political figure and He/she is called in to investigate.
+  He/she is hired to locate a valuable stolen artifact.
+  He/she discovers evidence of corruption within their own organization and begins to investigate.
+  He/she is falsely accused of a crime they didn't commit and must clear their name.
+  A rival bounty hunter challenges the protagonist to a duel over a particularly valuable bounty.
+  He/she is tasked with bringing in a former ally who has turned to a life of crime.
+  A young child asks for His/her help in finding their missing parent.
+  A group of criminals team up to take revenge on He/she for their past captures.
+  A wealthy client hires He/she to retrieve a stolen piece of artwork.
+  He/she is forced to confront a difficult moral dilemma when they discover their latest target is innocent.
+  He/she is hired to track down a group of bandits terrorizing a small town.
+  A notorious bounty hunter from the protagonist's past resurfaces, seeking revenge for a past capture.
+  His/her latest capture is stolen from them, and they must retrieve the prisoner and complete the job.
+  He/she must navigate a treacherous wilderness to find their target.
+  A powerful criminal organization hires him/her to eliminate a rival gang.
+  He/she is called in to investigate a string of mysterious disappearances in a small town.
+= |Bounty Hunter Motivations
+  rewards offered for capturing wanted criminals.
+  revenge against a criminal who has wronged them in the past.
+  become a renowned figure in the world of bounty hunting.
+  a strong sense of justice and a desire to see criminals punished.
+  a desire to protect innocent people from dangerous criminals.
+  a desire to provide for their family and loved ones.
+  the excitement and adventure of the job.
+  a strong sense of loyalty to their clients or employers.
+  a desire to redeem themselves for past mistakes or wrongdoings.
+  a need to survive in a dangerous world.
+  a sense of duty to society and the law.
+  a desire to take on difficult or seemingly impossible targets.
+  a desire for personal freedom and independence.
+  a desire for wealth and material possessions.
+  a strong sense of honor and integrity.
+  a desire for power and control.
+  a desire to protect or rescue someone they love.
+  seeks revenge against a criminal who has harmed someone they care about.
+  a desire to learn and understand more about the criminal underworld.
+  a desire for recognition and respect from their peers and clients.
+= |Bounty Hunter Goals
+  To capture a notorious criminal with a high bounty on their head.
+  To bring in a criminal who has escaped from custody.
+  To protect a client from a dangerous criminal who is targeting them.
+  To uncover and bring down a powerful criminal organization.
+  To locate a missing person who is wanted for a crime.
+  To retrieve a stolen object of great value.
+  To bring a traitorous former ally to justice.
+  To stop a group of terrorists from carrying out a deadly attack.
+  To rescue a hostage being held by a dangerous criminal.
+  To solve a series of seemingly unrelated crimes and connect them to a larger conspiracy.
+  To capture a criminal who has become a cult leader and is leading their followers into danger.
+  To track down a dangerous fugitive who is hiding out in a remote location.
+  To infiltrate a criminal organization and gather evidence against its leaders.
+  To rescue a kidnapped child from the clutches of a ruthless criminal.
+  To bring a vigilante justice-seeker to justice before they harm innocent people.
+  To recover stolen artifacts of historical or cultural significance.
+  To take down a corrupt law enforcement official who is protecting dangerous criminals.
+  To protect a witness who has vital information against a powerful criminal.
+  To uncover the identity of a mysterious criminal mastermind who has been eluding authorities for years.
+  To bring a criminal who has fled the country to justice.
+= |Bounty Hunter Obstacles
+  The criminal they are after is constantly on the move and difficult to track down.
+  The criminal has a powerful network of supporters who are determined to protect them.
+  His/her own past mistakes and wrongdoings come back to haunt them.
+  The criminal is always one step ahead of He/she, using tricks and misdirection to evade capture.
+  His/her equipment malfunctions or fails at a crucial moment.
+  The criminal has a group of loyal followers who are willing to sacrifice themselves to protect their leader.
+  The criminal has gone into hiding in a remote or difficult-to-reach location.
+  His/her own reputation and past actions have made them a target for revenge.
+  The criminal has taken hostages and is using them as leverage against He/she.
+  He/she is forced to work with a partner who has a vastly different approach to capturing criminals.
+  The criminal has a powerful ally who is able to provide them with advanced technology or weapons.
+  He/she must navigate a dangerous environment, such as a jungle or desert, to reach their target.
+  The criminal is able to manipulate the legal system to their advantage, making it difficult for He/she to bring them to justice.
+  His/her own sense of morality is tested when they discover that the criminal they are after is not entirely evil.
+  The criminal has been tipped off about His/her arrival and is prepared to fight back.
+  He/she is injured or becomes ill, making it difficult for them to continue their pursuit.
+  The criminal has a secret hideout that is nearly impossible to find without the help of a local guide.
+  He/she is forced to work with a rival bounty hunter who they do not trust.
+  The criminal has a powerful ally within the law enforcement community who is willing to look the other way.
+  He/she must navigate a complex web of political intrigue in order to capture their target.
+= |Bounty Hunter Dramatic Crisis
+  His/her own past comes back to haunt them, putting their current mission in jeopardy.
+  The criminal they are pursuing is revealed to have a personal connection to He/she.
+  He/she is betrayed by a close ally or partner.
+  The criminal they are pursuing is not who they seem, and is actually a victim of circumstance.
+  He/she is forced to choose between capturing their target and protecting an innocent bystander.
+  He/she is injured or incapacitated, leaving them vulnerable to attack.
+  The criminal they are pursuing has a weapon or technology that He/she is not prepared to face.
+  He/she is accused of a crime they did not commit, throwing their career and reputation into question.
+  The criminal they are pursuing has a powerful influence over the local population, making it difficult for He/she to operate.
+  He/she is forced to work with someone they do not trust, putting their mission and their safety at risk.
+  The criminal they are pursuing has taken someone close to He/she hostage, putting them in a difficult moral dilemma.
+  His/her personal life and relationships suffer as a result of their dangerous job.
+  The criminal they are pursuing is able to escape custody or evade capture through a clever ruse or diversion.
+  He/she is forced to confront their own moral code and beliefs when they are tasked with capturing a criminal they do not believe is guilty.
+  The criminal they are pursuing has a powerful legal team that is able to delay or overturn their capture.
+  His/her mission is complicated by political unrest or conflict in the area where the criminal is hiding.
+  The criminal they are pursuing has a personal vendetta against He/she, making their capture all the more difficult.
+  His/her loyalty is tested when they are offered a substantial sum of money to betray their employer.
+  The criminal they are pursuing has a powerful ally or sponsor who is able to provide them with resources and protection.
+  He/she must choose between their duty as a bounty hunter and their personal desires or relationships.
+= |Bounty Hunter Twists
+  The criminal they are pursuing turns out to be an innocent victim, and the real criminal is someone they never suspected.
+  His/her employer is revealed to be involved in criminal activity, forcing He/she to choose between their duty and their own moral code.
+  The criminal they are pursuing has actually been working undercover for the government or a law enforcement agency.
+  He/she discovers that they have been misled and the real target was someone else entirely.
+  The criminal they are pursuing is actually a victim of circumstance, and He/she must help them clear their name.
+  He/she is forced to team up with the criminal they were pursuing in order to take down a greater threat.
+  He/she discovers that the criminal they were pursuing was actually a pawn in a larger conspiracy.
+  The criminal they are pursuing is actually a member of a long-lost family or someone He/she knows from their past.
+  His/her employer turns out to be a former enemy or rival, and they must reconcile their differences in order to achieve their mission.
+  The criminal they are pursuing is actually a powerful psychic or magician, and is able to manipulate His/her mind and actions.
+  He/she is forced to confront their own past actions and wrongdoings when they encounter a victim of their past.
+  The criminal they are pursuing is revealed to be an advanced AI or android, posing ethical questions about the treatment of artificial intelligence.
+  He/she is forced to make a difficult moral choice when they encounter a criminal who is not entirely evil, but has still broken the law.
+  The criminal they are pursuing turns out to be a clone or doppelganger of the real criminal, leading to confusion and a new mystery.
+  His/her own loyalty is called into question when they are offered a bribe or tempted to switch sides.
+  The criminal they are pursuing is revealed to be someone He/she previously believed to be dead.
+  His/her employer is revealed to have been playing both sides, leading to a dangerous confrontation.
+  The criminal they are pursuing is revealed to have a terminal illness, leading to a tragic twist.
+  He/she discovers that their employer is actually the real criminal, and must turn against them in order to bring them to justice.
+  The criminal they are pursuing is actually an innocent victim who was framed by someone else, leading to a new mystery and a new target.

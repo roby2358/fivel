@@ -1,0 +1,336 @@
+= Fantasy Title
+  - The {|fantasy subject} of {|fantasy theme} and {|fantasy theme}
+  - {|fantasy theme} of the {|fantasy theme} {|fantasy subject}
+  - {|fantasy theme}, {|fantasy subject} and {|fantasy theme}
+  - {|fantasy subject} and the {|fantasy subject}
+  - {|fantasy subject} of {|fantasy theme} and the {|fantasy subject}
+= Fantasy Threat
+  - Know: {|know} {|fantasy subject} of {|fantasy theme}
+  - Have: {|have} {|fantasy subject} of {|fantasy theme}
+  - Where: {|where} {|fantasy subject} of {|fantasy theme}
+  - Who: {|who} {|fantasy subject} of {|fantasy theme}
+  - Can do: {|can} {|fantasy subject} of {|fantasy theme}
+= Artifact
+  {|fantasy theme} and {|fantasy theme} {Medieval Magic Item}
+  {|fantasy theme} {|fantasy subject} {Medieval Magic Item}
+  {|fantasy theme} of the {|fantasy subject} {Medieval Magic Item}
+  {|fantasy theme} {Medieval Magic Item} and the {Medieval Magic Item}
+  {|fantasy theme} {Medieval Magic Item} and the {|fantasy theme} {Medieval Magic Item}
+  {|fantasy subject} {Medieval Magic Item} of {|fantasy theme}
+  {|fantasy subject}'s {|fantasy theme} {Medieval Magic Item}
+  {|fantasy subject} {Medieval Magic Item} and the {|fantasy subject} {Medieval Magic Item}
+  {|fantasy theme} and {|fantasy subject}, {Medieval Magic Item} and {Medieval Magic Item}
+  {|fantasy theme} {|fantasy subject}, {Medieval Magic Item} and {Medieval Magic Item}
+  {Medieval Magic Item} of {|fantasy theme} and {|fantasy theme}
+  The {Medieval Magic Item} of {|fantasy theme} and {|fantasy theme}
+  The {|fantasy subject}'s {Medieval Magic Item} of {|fantasy theme} and {|fantasy theme}
+  {Medieval Magic Item} of {|fantasy theme} and {|fantasy subject}
+= |fantasy subject
+  Land
+  Song
+  Empire
+  King
+  House
+  Book
+  Court
+  Queen
+  Throne
+  Daughter
+  Kingdom
+  City
+  Prince
+  Wanderer
+  Sage
+  Sorcerer
+  Dragon
+  Treasure
+  Ocean
+  Sea
+  River
+  Ship
+  Mariner
+  #
+  Knight
+  Castle
+  Artifact
+  War
+  Magic
+  Rebellion
+  Assassin
+  Prophet
+  Curse
+  Monster
+  Forest
+  Wizard
+  Sacrifice
+  Myth
+  Prophecy
+  Legend
+  Battle
+  Hero
+  Demon
+  Necromancer
+  Nightingale
+  Panther
+=|fantasy theme
+  Nightmares
+  Storm
+  Night
+  Wind
+  Crows
+  Glass
+  Sun
+  Snow
+  Ash
+  Fire
+  Bones
+  Rose
+  Smoke
+  Blood
+  Ice
+  Shadow
+  Light
+  Fox
+  Wolves
+  Dreams
+  Stars
+  River
+  Fog
+  Moon
+  Sand
+  Embers
+  Ivory
+  Gold
+  Illumination
+  Hope
+  Healing
+  Life
+  Despair
+  Ocean
+  River
+  Sea
+  #
+  Visions
+  Echoes
+  Thunder
+  Mist
+  Ravens
+  Diamond
+  Dawn
+  Rain
+  Stone
+  Steel
+  Thorn
+  Claw
+  Ashes
+  Darkness
+  Aurora
+  Faeries
+  Phoenix
+= Plot Fantasy
+  Write a 100-word summary for {|Fantasy Inciting Incidents}, a hero driven by {|Fantasy Motivations} must {|Fantasy Goals} despite {|Fantasy Obstacles} despite {|Fantasy Twists}, but all seems lost when {|Fantasy Dramatic Crisis}. Name the hero and describe his/her character.
+= |Fantasy Inciting Incidents
+  The discovery of a mysterious artifact that holds the key to unlocking a powerful magic spell
+  A sudden attack on a peaceful village by an army of monsters
+  A sudden attack on a peaceful village by an army of invading forces
+  The arrival of a powerful wizard who disrupts the balance of power in the land
+  The arrival of a powerful sorceress who disrupts the balance of power in the land
+  A devastating natural disaster that threatens to destroy the land and its inhabitants
+  The awakening of a legendary beast that has been asleep for centuries
+  The awakening of a legendary benevolent creature that has been asleep for centuries
+  The disappearance of a beloved ruler, leaving the kingdom in chaos
+  The discovery of a lost or hidden city filled with riches and danger
+  The sudden appearance of a powerful magical portal that leads to other worlds or dimensions
+  The betrayal of a trusted ally, leading to a personal quest for revenge
+  The betrayal of a long-time friend, leading to a personal quest for revenge
+  The revelation of a long-lost secret that will change the course of history
+  The revelation of a prophecy that will change the course of history
+  The appearance of a dark cult or religious order that seeks to bring about the end of the world
+  The emergence of a new hero who must take up the mantle to save the world
+  The fall of a once-great kingdom, leading to a struggle for power among the remaining factions
+  The discovery of a hidden magical academy for gifted students
+  The arrival of an strange race who threatens to take over the world
+  The arrival of a powerful deity who threatens to take over the world
+  The outbreak of a deadly plague that threatens to wipe out entire populations
+  The discovery of a forbidden artifact that brings about a terrible magical affliction
+  The discovery of a cursed artifact that brings about a terrible curse
+  The rise of a powerful new villain who threatens to destroy everything the hero holds dear
+  The appearance of a powerful magic user who seeks to dominate and enslave the world
+  The awakening of a long-dormant magical power that begins to cause chaos and destruction in the world
+  The awakening of a long-dormant magical force that begins to cause chaos and destruction in the world
+= |Fantasy Motivations
+  Seeking to avenge a past wrong
+  Seeking to avenge a past injury
+  Seeking to avenge a past betrayal
+  Seeking to gain or dominance over others
+  Seeking to maintain control over others
+  Fighting for and protecting the ones they love
+  Fighting for and seeking to find true love
+  Seeking to make up for past mistakes or wrongs
+  Seeking to find redemption for past actions
+  Doing whatever it takes to stay alive in a dangerous or hostile world
+  A desire to explore new worlds
+  A desire to discover ancient artifacts
+  A desire to uncover hidden secrets
+  A thirst for knowledge and the pursuit of answers to questions that have long gone unanswered
+  Fighting for the freedom of oneself or others
+  Fighting to escape slavery
+  Fighting to escape oppression and tyranny
+  Following a set of religious or spiritual beliefs
+  Fighting for a set of religious or spiritual beliefs
+  Protecting and preserving one's family's legacy
+  Creating his/her own one's family's legacy
+  Seeking to understand oneself, one's past, or one's true purpose in life
+  Upholding a strict code of honor and fighting for what they believe is right and just
+  Putting oneself in harm's way or making a difficult sacrifice for the greater good
+  Fighting for and protecting friends in need
+  Seeking to make new friends
+  Desiring wealth and riches
+  Seeking to acquire more power or status
+  Seeking acceptance from others or learning to accept oneself for who they are
+  Fulfilling a sense of duty, responsibility, or obligation, even if it goes against one's personal desires or beliefs
+  Doing whatever it takes to ensure the survival and prosperity of one's race or culture
+  Seeking to avenge a wrong done to his/her people
+  Seeking to avenge a wrong done to his/her tribe
+  Seeking to avenge a wrong done to his/her clan
+  Protecting a place from danger, harm, or evil.
+  Protecting a group of people from danger, harm, or evil.
+= |Fantasy Goals
+  Save the world from destruction by a powerful villain or dark force
+  Save the world from domination by a powerful villain or dark force
+  Find and obtain a magical artifact that can be used to defeat an enemy
+  Find and obtain a magical artifact that can be used to overcome {fantasy obstacle}
+  Find and obtain a powerful weapon that can be used to defeat an enemy
+  Find and obtain a powerful weapon that can be used to overcome {fantasy obstacle}
+  Discover the truth about a hidden past that will change the course of history
+  Discover the truth about a prophecy that will change the course of history
+  Discover the truth about a mystery that will change the course of history
+  Escape from captivity
+  Escape from enslavement
+  Restore balance to a world or kingdom that has fallen into chaos or tyranny
+  Reunite with a lost love
+  Reunite with a family member
+  Reunite with a long-time friend
+  Achieve revenge against a personal enemy
+  Achieve revenge against a rival
+  Become the greatest warrior in the land
+  Become the greatest wizard in the land
+  Become the greatest hero in the land
+  Solve a riddle that unlocks a powerful secret
+  Solve a puzzle that unlocks a powerful secret
+  Solve a enigma that unlocks a powerful secret
+  Solve a riddle that unlocks ancient knowledge
+  Solve a puzzle that unlocks ancient knowledge
+  Solve a enigma that unlocks ancient knowledge
+  Solve a riddle that unlocks a great treasure
+  Solve a puzzle that unlocks a great treasure
+  Solve a enigma that unlocks a great treasure
+  Overcome a personal flaw or weakness, such as fear, anger, or self-doubt
+  Establish peace between warring factions
+  Establish peace between warring races
+  Rebuild a lost or destroyed civilization or kingdom
+  Ascend to the throne as a rightful ruler
+  Ascend to the throne by overthrowing a corrupt or unjust ruler
+  Discover or create a new magical or scientific technology that will change the world
+  Protect a group of people from danger or harm
+  Protect a kingdom from danger or harm
+  Protect a world from danger or harm
+  Gain wealth, power, and status in a society or kingdom
+  Explore and map a new world
+  Explore and map a new dimension
+  Explore and map a new realm
+  Learn and master a new magical art
+  Learn and master a new martial art
+  Seek out a lost mentor or teacher who can help him/her become stronger
+  Seek out a lost mentor or teacher who can help him/her become wiser
+  Escape the cycle of destiny, prophecy, or fate that has been predetermined for him/her
+= |Fantasy Obstacles
+  Powerful and malevolent creatures, such as dragons
+  Powerful and malevolent creatures, such as demons
+  Powerful and malevolent creatures, such as dark wizards
+  Physical barriers, such as mountains
+  Physical barriers, such as oceans
+  Physical barriers, such as dense forests
+  Curses that cause harm or make things difficult for him/her
+  Spells that cause harm or make things difficult for him/her
+  Political intrigue and corruption within kingdoms or societies
+  Betrayal by trusted allies or friends
+  Powerful natural disasters, such as earthquakes
+  Powerful natural disasters, such as tornadoes
+  Powerful natural disasters, such as floods
+  Powerful natural disasters, such as fires
+  Powerful natural disasters, such as volcanoes
+  The need to overcome a personal fear or phobia
+  Deception or lies from people he/she thought he/she could trust
+  Prejudice and discrimination against certain races or classes of people
+  A lack of resources or equipment needed to accomplish a task
+  Trauma or past experiences that prevent him/her from moving forward
+  The presence of powerful magical wards or protections that keep him/her from his/her goal
+  The need to navigate a complex maze or labyrinth
+  The presence of a rival group or faction with opposing goals
+  The need to retrieve a powerful artifact or weapon from a heavily guarded location
+  The loss of a critical ally during the journey
+  The loss of a critical long-time friend during the journey
+  A powerful and debilitating curse that affects one or more characters
+  A powerful and debilitating disease that affects one or more characters
+  A character's own personality flaws or shortcomings that prevent him/her from succeeding
+  A powerful and evil sorcerer who seeks to foil his/hers plans
+  A powerful and evil enchantress who seeks to foil his/hers plans
+  A powerful and evil sorceress who seeks to foil his/hers plans
+  An ancient and powerful magic that is difficult to control or understand
+= |Fantasy Dramatic Crisis
+  The sudden appearance of a powerful and seemingly unbeatable enemy
+  The loss of a critical ally who was guiding him/her
+  The loss of a mentor who was guiding him/her
+  A powerful spell that leaves him/her powerless or incapacitated
+  A powerful curse that leaves him/her powerless or incapacitated
+  The revelation of a long-held secret or betrayal by a trusted friend or ally
+  The death or disappearance of a loved one, causing him/her to lose focus or motivation
+  The discovery of a flaw or weakness in a plan or strategy
+  The need to make a difficult choice that could have serious consequences
+  A sudden betrayal or change of allegiance by a key ally
+  The realization that a trusted source of information or guidance was actually deceiving him/her
+  A moral dilemma that forces him/her to choose between what is right and what is necessary
+  The discovery that a trusted item or artifact was a fake or a deception
+  The sudden appearance of a powerful and unexpected obstacle that him/her were not prepared for: {fantasy obstacle}
+  The loss or destruction of a critical item or artifact that was essential to his/hers plan
+  A sudden and unexpected change in the physical environment, such as a natural disaster or sudden climate shift
+  The realization that a long-held belief or assumption was incorrect or misguided
+  The loss or injury of a key member of the group, forcing the others to continue without him/her
+  A powerful and insurmountable moral or ethical challenge that puts his/hers beliefs to the test
+  The revelation of a hidden weakness or flaw in his/hers plan that could have disastrous consequences
+  A sudden and unexpected change in the rules or laws of the magical universe
+  A powerful and unexpected force or entity that him/hers cannot overcome or defeat
+= |Fantasy Twists
+  The sudden appearance of a previously unknown or forgotten magical power or ability in one of him/hers
+  The reveal that a key character or ally is actually a traitor, spy, or undercover agent
+  The unexpected resurrection or return of a previously deceased character
+  The revelation of a secret that dramatically changes a character's identity or status
+  The revelation of a hidden lineage that dramatically changes a character's identity or status
+  The discovery of a previously unknown ancient technology that can turn the tide of a conflict
+  The discovery of a previously unknown magical artifact that can turn the tide of a conflict
+  The sudden disappearance of a powerful ally
+  The sudden disappearance of a mentor
+  The sudden betrayal of a powerful ally
+  The sudden betrayal of a mentor
+  The emergence of a previously unknown villain that had been manipulating events behind the scenes
+  The emergence of a previously unknown threat that had been manipulating events behind the scenes
+  The sudden acquisition of a powerful magical item that changes the balance of power
+  The sudden acquisition of a powerful weapon that changes the balance of power
+  The realization that the entire adventure was actually part of a larger, more complex scheme or conspiracy
+  The revelation of a long-held deception or lie by a trusted friend
+  The revelation of a long-held deception or lie by a mentor
+  The sudden transformation of a character into a powerful magical creature, such as a dragon or demon
+  The revelation that the main character's mentor or guide was actually a ghost, spirit, or divine entity all along
+  The emergence of a previously unknown magical force that can alter reality or bend the rules of magic
+  The emergence of a previously unknown entity that can alter reality or bend the rules of magic
+  The sudden appearance of an ancient and powerful magical entity, such as a god or titan, who can change the course of events
+  The discovery that a seemingly minor character was actually the key to the entire adventure all along
+  The discovery that a seemingly minor object was actually the key to the entire adventure all along
+  The revelation of a previously unknown magical realm that opens up new possibilities for him/her
+  The revelation of a previously unknown dimension that opens up new possibilities for him/her
+  The sudden discovery that a character has been living a double life all along
+  The sudden discovery that a character has been possessed by a magical entity all along
+  The emergence of a previously unknown faction or group with its own agenda, throwing a wrench into the plans of the main characters
+  The realization that the main villain was actually a pawn or minion of a larger and more powerful entity or force
+  The sudden realization that a key character was actually dead all along, and had been existing as a ghost or spirit

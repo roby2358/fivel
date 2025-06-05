@@ -1,0 +1,120 @@
+= Medevial Grievance
+  - 1 At {|grievance setting} did {|grievance nature}
+= |Grievance Setting
+  - 3 Property
+    - 1 Field
+    - 1 Manor House
+    - 1 Stables
+    - 1 Countryside
+    - 1 Forest
+  - 1 Market
+  - 2 Tavern
+  - 4 Event
+    - 1 Festival
+    - 1 Wedding
+    - 1 Banquet
+    - 1 Celebration
+    - 1 Celebrity Visit
+= |Grievance Nature
+  - 3 Insult
+    - 1 Spouse
+    - 1 Lover
+    - 1 Appearance
+    - 1 Weapon
+    - 1 Food
+    - 1 Beverage
+    - 1 Sexual Performance
+    - 1 Sporting Performance
+    - 1 Apparel
+    - 1 Horse
+    - 1 Pig
+    - 1 Vote
+    - 1 Public Backing
+    - 1 Finances
+    - 1 Overly Familiar
+    - 1 Lectured
+    - 1 Commanded
+    - 1 Berated
+    - 10 Comitted Crime
+      - 1 Theft
+      - 1 Adultry
+      - 1 Assault
+      - 1 Vandalism
+      - 1 Heresy
+      - 1 Whore
+      - 1 Whoremaster
+      - 1 Murderer
+      - 1 Bandit
+      - 1 Poisoner
+      - 1 Fraud
+  - 2 Family Member
+    - 1 Ambushed
+    - 1 Insulted
+    - 1 Spurned Love
+    - 1 Fool's Paradise
+    - 1 Kidnapped
+    - 1 Cheated
+  - 2 Appropriation
+    - 1 Lover
+    - 1 Jewelry
+    - 1 Land
+    - 1 Produce
+    - 1 Food
+    - 1 Beverage
+    - 1 Pig
+    - 1 Game
+  - 1 Public Support
+    - 2 Vote
+    - 1 Backing Rival
+  - 3 Broken Promise
+    - 1 Deception
+    - 1 Did not Deliver
+    - 1 Did not Appear
+    - 3 Did not Pay
+    - 1 Gambling Debt
+  - 1 Property Damage
+    - 1 Fence/Wall
+    - 1 House
+    - 1 Well
+    - 1 Forest
+    - 1 Tapestry
+    - 1 Apparel
+  - 2 Injury
+    - 1 Bodily
+    - 1 Spouse
+    - 1 Lover
+    - 1 Servants
+    - 1 Horse
+    - 1 Pig
+  - 1 Jealousy
+    - 1 Attention
+    - 1 Apparel
+    - 1 Beverage
+    - 1 Cook
+    - 1 Food
+    - 1 Horse
+    - 1 Jewelry
+    - 1 Lover
+    - 1 Pig
+    - 1 Spouse
+    - 1 Weapon
+    - 1 Wit
+  - 1 Ambush
+    - 1 Attack
+    - 1 Robbery
+    - 1 Roughhousing
+    - 1 Tormenting
+  - 1 Gambling
+    - 1 Cheating
+    - 1 Losing
+    - 1 Accused of cheating
+  - 1 Magic Transformation
+    - 1 Newt
+    - 1 Frog
+    - 1 Cow
+    - 1 Wolf
+    - 1 Fat
+    - 1 Thin
+    - 1 Sickly
+    - 1 Forgetful
+    - 1 Madness

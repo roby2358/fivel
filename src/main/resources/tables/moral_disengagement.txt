@@ -1,0 +1,7 @@
+= Moral Disengagement
+  - Moral Justification
+  - Euphamistic Labeling
+  - Displacement of responsibility
+  - Diffusion of Responsibility
+  - Disregard of Consequences
+  - Distortion of Consequences

@@ -1,3 +1,9 @@
+= Decameron Character
+  {Decameron Stock Types} who {Decameron Who Types}
+  {Decameron Stock Types} who {Decameron Who Types} and {Decameron Who Types}
+  {Decameron Stock Types} who {Decameron Who Types} but {Decameron Who Types}
+  {Decameron Stock Types} who {Decameron Who Types} and thus {Decameron Who Types}
+
 = Decameron stories
   Master Ciappelletto, the worst of men, makes a false deathbed confession so pious that he is venerated as Saint Ciappelletto
   Abraham the Jew visits corrupt Rome and converts, reasoning that only a divinely protected Church could survive such clergy
@@ -558,3 +564,119 @@
   He sends her away and pretends to take a new bride
   She serves at the wedding
   He restores her and reveals her children
+
+= Decameron Stock Types
+  the jealous husband
+  the old husband
+  the clever wife
+  the bored young wife
+  the hidden lover
+  the lecherous friar
+  the scheming abbot
+  the hypocritical inquisitor
+  the wayward nun
+  the abbess
+  the hermit
+  the gullible simpleton
+  the prankster
+  the foolish doctor
+  the swindler
+  the naive merchant
+  the cheated merchant
+  the gambler
+  the glutton
+  the quick-witted servant
+  the cook
+  the witty lady
+  the sharp-tongued commoner
+  the miser
+  the magnanimous lord
+  the ruined nobleman
+  the faithful lover
+  the cruel father
+  the vengeful brother
+  the vengeful husband
+  the disdainful lady
+  the scorned scholar
+  the brute
+  the patient wife
+  the wronged wife
+  the clever woman
+  the abducted bride
+  the lost child
+  the exile
+  the corsair
+  the penniless youth
+  the feeble king
+  the lustful king
+  the generous enemy
+  the necromancer
+  the ghost
+  the false saint
+  the fake cripple
+  the worldly priest
+  the innkeeper
+
+= Decameron Who Types
+  guards a spouse closely
+  is fooled despite every precaution
+  has a much younger spouse
+  has too many holy days
+  talks their way out of any discovery
+  is looking for a lover
+  is stuffed into a chest
+  is stuffed into a vat
+  is stuffed into a hen-coop
+  preaches virtue
+  practices vice in secret
+  uses a holy office to get what they want
+  is greedy for fines
+  forgets their vows when the chance arrives
+  scolds others for their own sins
+  is tempted in the desert
+  believes anything friends say
+  makes a fool of a friend
+  is proud of their learning
+  is easily tricked
+  fleeces travelers with charm
+  fleeces travelers with lies
+  is far from home
+  carries a fat purse
+  comes back to swindle the swindler
+  loses everything
+  loses someone else's money
+  is always hunting a free dinner
+  escapes punishment with a clever word
+  talks their way out of trouble
+  silences a crude man with one remark
+  shames a nobleman
+  is shamed into generosity
+  gives beyond all reason
+  sacrifices a last treasure for love
+  dies of grief
+  destroys a daughter's love
+  murders a sister's lover
+  serves an unfaithful spouse the lover's heart
+  scorns a devoted suitor
+  takes cruel revenge
+  is civilized by love
+  endures every cruelty
+  disguises themselves as a man
+  rises in the world
+  wins a spouse through a bed trick
+  prefers their abductor
+  was raised by strangers
+  is recognized by a birthmark
+  returns in disguise
+  turns fortune on its head
+  rises to marry a princess
+  is shamed into ruling well
+  masters their passion
+  honors a captive
+  works magic to do the impossible
+  returns to report on the afterlife
+  lived a life of sin
+  is revered as a saint
+  stages a miracle
+  pays for love with a cloak
+  runs a house full of mistaken beds

@@ -1,1 +1,560 @@
-= Decameron Beats
+= Decameron stories
+  Master Ciappelletto, the worst of men, makes a false deathbed confession so pious that he is venerated as Saint Ciappelletto
+  Abraham the Jew visits corrupt Rome and converts, reasoning that only a divinely protected Church could survive such clergy
+  Melchizedek the Jew escapes Saladin's trap with the parable of the three identical rings
+  A monk caught with a girl escapes punishment by tricking his abbot into committing the same sin
+  The Marchioness of Monferrato cools the French king's lust by serving him a banquet made entirely of hens
+  A good man shames a greedy inquisitor with a witty remark about the hundredfold soup the friars hand out
+  Bergamino rebukes Messer Cane della Scala's sudden stinginess with a tale about Primasso and the Abbot of Cluny
+  Guglielmo Borsiere shames the miserly Ermino de' Grimaldi into generosity by suggesting he paint Courtesy on his wall
+  A wronged Gascon lady's sarcastic plea goads the feeble King of Cyprus into becoming a vigorous ruler
+  Master Alberto of Bologna neatly shames a lady who mocked him for loving her in his old age
+  Martellino fakes paralysis to get near a saint's body, is exposed and beaten, and narrowly escapes hanging
+  Rinaldo d'Asti, robbed and left freezing, finds shelter and a night of love with a widow and recovers his goods
+  Three spendthrift brothers are ruined; their nephew Alessandro travels with an abbot who turns out to be an English princess, and she marries him
+  Landolfo Ruffolo is ruined, turns corsair, is shipwrecked, and floats to Corfu on a coffer full of jewels
+  Andreuccio of Perugia, in Naples to buy horses, suffers three misadventures in one night and comes home with a ruby
+  Madam Beritola, having lost her two sons, is found on a desert island with two kids, and years later the family is reunited and restored
+  The Sultan's daughter Alatiel passes through nine lovers in four years and is then sent to the King of Algarve as a virgin bride
+  The Count of Antwerp, falsely accused, flees to England with his children, who rise in fortune until all are restored
+  Bernabo of Genoa wagers on his wife's chastity, is duped by Ambrogiuolo, and orders her death; disguised as a man, she rises in the Sultan's service and exposes the liar
+  The pirate Paganino abducts the young wife of old judge Ricciardo di Chinzica, and she refuses to return to her husband's calendar of holy days
+  Masetto of Lamporecchio pretends to be deaf and dumb to become gardener at a convent, where the nuns all take him as their lover
+  A horsekeeper sleeps with King Agilulf's queen; the king marks him by cutting his hair, but the horsekeeper cuts every sleeper's hair the same way
+  A lady uses an unwitting friar as go-between to arrange an affair with a young man
+  Dom Felice sets Fra Puccio a long nightly penance toward sainthood so he can enjoy Puccio's wife
+  Ricciardo, called Il Zima, gives Messer Francesco Vergellesi a palfrey in exchange for speaking with his wife, and wins her with a one-sided conversation
+  Ricciardo Minutolo lures Catella to a bathhouse tryst by making her believe she will catch her husband there
+  Tedaldo Elisei returns disguised as a pilgrim, saves his lady's husband from execution for Tedaldo's own supposed murder, and reconciles with her
+  Ferondo is drugged, buried, and convinced he is in Purgatory while the abbot enjoys his wife, then raises the abbot's child as his own
+  Gillette de Narbonne cures the King of France, wins Bertrand de Roussillon as husband, and fulfils his impossible conditions by the bed trick
+  Alibech, a young girl turned hermit in the desert, is taught by the hermit Rustico how to put the devil back in hell
+  Tancred, Prince of Salerno, kills his daughter Ghismonda's lover and sends her his heart in a golden cup; she poisons herself
+  Fra Alberto persuades a vain Venetian woman that the Angel Gabriel loves her, and visits her in that guise until, fleeing her kinsmen, he is paraded in the Piazza as a wild man and caught
+  Three young men elope with three sisters to Crete, where jealousy leads to two murders, and the last pair die in poverty on Rhodes
+  Gerbino attacks the ship carrying the King of Tunis's daughter, whom he loves, to her bridegroom; she is killed and he is executed
+  Lisabetta's brothers murder her lover; his ghost shows her the grave, and she buries his head in a pot of basil and weeps over it until she dies
+  Andrevuola's lover Gabriotto dies in her arms after an ominous dream; arrested carrying his body, she resists the provost's advances, is freed, and becomes a nun
+  Simona's lover Pasquino dies after rubbing his teeth with a sage leaf; she tries it before the judge and dies too
+  Girolamo, sent away from his beloved Salvestra, returns to find her married and dies beside her; she dies at his funeral
+  Sir Guillaume de Roussillon kills his wife's lover and feeds her his heart; she leaps from a window and is buried with her lover
+  A doctor's wife thinks her drugged lover dead and hides him in a chest; two usurers carry it off and he is taken for a thief, until the maid's testimony saves him
+  Cimon, a brute, is civilized by love for Iphigenia, abducts her twice, and finally marries her
+  Costanza, believing her lover Martuccio dead, drifts out to sea and finds him in Tunis, honored by the king
+  Pietro Boccamazza and Agnolella elope, are separated by bandits, and are reunited in a castle and married
+  Ricciardo Manardi is caught sleeping with Caterina, who went to the balcony to hear the nightingale, and is made to marry her
+  Two young men fight over Agnesa, who turns out to be the sister of one; the other marries her
+  Gianni di Procida, caught with his love in King Frederick's palace, is condemned to burn but recognized and spared, and they marry
+  Teodoro gets his lord's daughter Violante with child and is being led to the gallows when his father recognizes him; he marries her
+  Nastagio degli Onesti makes his scornful beloved witness a ghostly knight hunting a cruel lady, and she agrees to marry him
+  Federigo degli Alberighi serves his prized falcon to the widow Giovanna; moved, she later marries him
+  Pietro di Vinciolo discovers his wife's lover under a hen-coop when a donkey treads on his fingers, and settles it to his own lewd satisfaction
+  A gentleman offers to carry Madam Oretta on horseback with a story but tells it so badly that she begs to be set down
+  The baker Cisti, with a witty remark, makes Messer Geri Spina see his request for wine was indiscreet
+  Madam Nonna de' Pulci silences the Bishop of Florence with a sharp retort
+  Chichibio the cook gives away a crane's leg, claims cranes have only one leg, and saves himself with a quip
+  Messer Forese da Rabatta and the painter Giotto, both ugly, mock each other's looks
+  Michele Scalza proves the Baronci are the noblest family in the world because they are the oldest
+  Madam Filippa, tried for adultery, gets the law changed by asking what she should do with her surplus
+  Fresco tells his vain niece that if she finds everyone disagreeable she should stop looking in the mirror
+  Guido Cavalcanti escapes taunting young men among the tombs with a cryptic remark that they are in their own house
+  Friar Cipolla finds his feather of the Angel Gabriel replaced with coal and convinces the crowd the coals are from St Lawrence's grill
+  Gianni Lotteringhi hears knocking at night; his wife claims it is a ghost and sends her lover off with an exorcism
+  Peronella hides her lover in a vat; when her husband says he has sold it, she claims a buyer is inside checking it, and the lover has the husband scrape it out and carry it home
+  Friar Rinaldo, caught with his godson's mother, pretends to be charming worms out of the child
+  Tofano locks his wife out; she pretends to drown herself in the well and locks him out instead
+  A jealous husband disguises himself as a priest to hear his wife's confession; she says a priest visits her nightly, and while he guards the door her lover comes in over the roof
+  Madam Isabella, surprised with Leonetto by Lambertuccio and then her husband, sends Lambertuccio off with sword drawn as if chasing Leonetto
+  Madam Beatrice sends her husband Egano into the garden in her clothes, beds Lodovico, and then Lodovico goes out and cudgels Egano
+  A jealous husband finds the thread tied to his wife's toe for her lover; she puts another woman in her bed for him to beat, and he is made to look a madman before her brothers
+  Lydia passes Pyrrhus's three tests of love and lies with him before her husband Nicostratus, convincing him the pear tree is enchanted
+  Two Sienese love the same woman; one dies and returns to report that bedding a godmother earns no special punishment in the afterlife
+  Gulfardo borrows money from Guasparruolo, pays it to Guasparruolo's wife for her favors, and tells the husband he repaid her
+  The priest of Varlungo leaves his cloak as pledge to bed Mistress Belcolore, then borrows her mortar and demands the cloak back when he returns it
+  Calandrino hunts the heliotrope along the Mugnone, thinks himself invisible, and beats his wife for breaking the spell
+  The rector of Fiesole, who pursues a widow, is tricked into bed with her ugly serving-wench, and her brothers bring the bishop to find him
+  Three young men pull the breeches off a judge from the Marches while he sits on the bench
+  Bruno and Buffalmacco steal Calandrino's pig, then rig an ordeal with ginger pills to prove he stole it himself, and blackmail him
+  A scholar, left out in the snow by the widow Elena, takes revenge by stranding her naked on a tower in the summer sun
+  Spinelloccio sleeps with Zeppa's wife; Zeppa locks him in a chest and sleeps with Spinelloccio's wife on top of it
+  Bruno and Buffalmacco promise the foolish doctor Master Simone entry to a secret society, then dump him in a cesspit
+  A Sicilian woman swindles a merchant in Palermo; he returns feigning greater wealth, borrows money from her, and leaves her water and tow as security
+  Francesca rids herself of two unwanted suitors by setting them grisly tasks involving a corpse
+  An abbess rushing to catch a nun with her lover puts the priest's breeches on her head instead of her veil
+  Calandrino is convinced he is pregnant and pays Master Simone in capons and coin to cure him
+  Cecco Fortarrigo gambles away his own and Cecco Angiolieri's money, has him seized as a thief, and rides off in his clothes on his horse
+  Calandrino falls for a girl, gets a magic charm from Bruno, and is caught by his wife
+  Two young men lodge at an inn, and a shuffle of beds puts one with the host's daughter and the other with his wife, until the wife smooths it all over
+  Talano dreams a wolf mauls his wife's face; she scorns the warning, goes into the woods, and is mauled
+  Biondello tricks Ciacco with a false dinner, and Ciacco gets revenge by having him beaten
+  Two young men seek Solomon's advice; one is told to love, the other to go to Goose Bridge, where he learns how to treat his wife
+  Dom Gianni pretends to turn Pietro's wife into a mare, but Pietro spoils the spell, saying he will have no tail
+  A knight thinks the King of Spain rewards him poorly, and the king proves fortune is to blame
+  Ghino di Tacco captures the Abbot of Cluny, cures his stomach, and frees him; the abbot reconciles him with Pope Boniface
+  Mithridanes, jealous of Nathan's generosity, sets out to kill him; Nathan, unrecognized, tells him where to find his victim, and shamed, he becomes Nathan's friend
+  Messer Gentile de' Carisendi revives the lady he loves from her tomb and restores her and her newborn son to her husband
+  Madonna Dianora demands a garden blooming in January; Ansaldo has a necromancer make it, and her husband's generosity moves Ansaldo to release her
+  King Charles the Old, smitten with Messer Neri's young daughter, masters his passion and marries both daughters off honorably
+  King Pedro of Aragon, learning the sick Lisa loves him, comforts her and arranges her marriage
+  Gisippus gives his bride Sophronia to his friend Titus; later Gisippus, destitute in Rome, confesses to a murder, Titus claims the guilt to save him, and the real killer comes forward
+  Saladin, disguised as a merchant, is honored by Messer Torello and, when Torello is his prisoner, sends him home to Pavia by magic just as his wife is about to remarry
+  The Marquess of Saluzzo tests his peasant wife Griselda with extreme cruelty and, finding her endlessly patient, restores her
+
+= Decameron beats
+  A notorious scoundrel falls ill far from home
+  His hosts fear scandal if he dies unconfessed
+  He makes a wildly pious false confession to a holy friar
+  He dies and is buried with honor
+  The townsfolk venerate him as a saint
+  A merchant urges his friend to convert
+  The friend insists on first visiting the Church's capital
+  He finds the clergy steeped in vice
+  He converts, reasoning that only God could sustain such a Church
+  A ruler in need of money sets a trap for a rich man
+  He asks which of three faiths is the true one
+  The rich man answers with a parable of three identical rings
+  The ruler, impressed, gets his loan and gives his friendship
+  A monk smuggles a girl into his cell
+  The abbot discovers them
+  The monk leaves the abbot alone with the girl
+  The abbot succumbs to the same sin
+  The abbot cannot punish what he has done himself
+  A king travels to court a lady while her husband is away
+  She serves a feast of nothing but hens
+  The king asks whether the land has no roosters
+  Her witty reply shames him into leaving
+  A greedy inquisitor extorts a man over a careless remark
+  The man is sentenced to hear mass daily
+  He hears a promise of a hundredfold reward
+  He pities the friars who will receive a hundred cauldrons of their own slop
+  A lord holds a great feast but ignores a storyteller
+  The storyteller waits, unpaid and running out of money
+  He tells a tale of a poet and a miserly abbot
+  The lord takes the hint and rewards him lavishly
+  A rich man is notorious for his miserliness
+  He asks a courtier what to paint in his new hall
+  The courtier says "Courtesy", a thing the miser has never seen
+  Shamed, the miser becomes generous
+  A lady is assaulted while on pilgrimage
+  She seeks justice from a feeble king
+  She asks him to teach her how he bears his own insults
+  Stung, the king becomes a stern avenger of wrongs
+  An aging physician falls for a widow
+  She and her friends mock him
+  He compares himself to a leek, whose green top is the best part
+  She concedes and offers him her friendship
+  A jester fakes paralysis to approach a saint's relics
+  He pretends to be miraculously cured
+  He is recognized and beaten
+  He is arrested as a thief and nearly hanged
+  Friends at court win his release
+  A merchant is robbed by false companions
+  He is left freezing outside a locked town
+  A widow whose lover failed to come takes him in
+  They spend the night together
+  The robbers are caught and his goods returned
+  Three brothers squander a fortune
+  Their nephew joins a young abbot's retinue
+  The abbot is revealed to be a princess in disguise
+  She marries the nephew with the Pope's blessing
+  The family's fortunes are restored
+  A merchant loses everything on a bad venture
+  He turns corsair and grows rich
+  He is captured and his ship is wrecked
+  He drifts ashore clinging to a chest of jewels
+  He returns home richer than before
+  A naive horse buyer flashes his purse
+  A swindler posing as his long-lost sister robs him
+  He falls into a cesspit
+  Grave robbers lower him into a bishop's tomb
+  He escapes with a priceless ruby
+  A noblewoman is exiled and loses her sons
+  She lives on a desert island, nursing young goats
+  She is taken into service on the mainland
+  One son is imprisoned for loving his lord's daughter
+  Mother and sons are recognized and restored
+  A princess sails to marry a distant king
+  A shipwreck delivers her to a stranger
+  She passes from man to man through murder and war
+  An old servant recognizes her
+  She returns to her father and marries the king as a supposed virgin
+  A queen falsely accuses a count who rejected her
+  He flees with his children in disguise
+  He leaves them in different households
+  They rise in fortune
+  Years later the queen confesses and he is restored
+  A merchant wagers on his wife's virtue
+  A rival hides in a chest in her bedroom and gathers false proof
+  The husband orders her killed
+  She escapes and rises in a foreign court disguised as a man
+  She exposes the liar and reveals herself
+  An old judge marries a young wife
+  He avoids her bed with endless holy days
+  A pirate abducts her
+  The judge comes to buy her back
+  She chooses to stay with the pirate
+  A young man hears that a convent needs a gardener
+  He pretends to be deaf and dumb
+  The nuns secretly take turns with him
+  The abbess claims him too
+  He "regains" his speech and is kept on
+  A stable groom secretly loves the queen
+  He impersonates the king in her bed
+  The king finds him and marks him by clipping his hair
+  The groom clips every sleeper the same way
+  The king lets it go
+  A married lady desires a young man
+  She complains to a friar that the young man pesters her
+  The friar scolds him, and he takes the hint
+  Each complaint teaches him the way to her
+  The lovers meet
+  A devout simpleton wants to become a saint
+  A monk prescribes an all-night penance
+  The monk enjoys the wife while the husband prays
+  The husband finishes believing himself holy
+  A dandy trades his horse for a talk with a knight's wife
+  She is forbidden to answer
+  He speaks both parts of the conversation
+  She follows his plan when her husband leaves
+  A man loves a jealous wife
+  He tells her that her husband has a tryst at a bathhouse
+  She goes there in the dark to catch him
+  She finds her suitor instead
+  Compromised, she accepts him
+  A spurned lover leaves the city
+  He returns disguised as a pilgrim
+  He finds himself believed murdered and his lady's husband condemned
+  He wins back the lady's heart
+  He saves the husband and reveals himself
+  An abbot desires a jealous man's wife
+  He drugs the husband, who is buried for dead
+  The husband wakes in a cell and is told he is in Purgatory
+  The abbot enjoys the wife
+  The husband is "resurrected" and raises the abbot's child
+  A physician's daughter cures the king
+  She asks for a reluctant nobleman as her husband
+  He flees and sets impossible conditions
+  She takes another woman's place in his bed
+  She presents his twin sons and wins him
+  A young girl goes into the desert to serve God
+  A hermit takes her in
+  He teaches her to put the devil back in hell
+  She becomes too eager for him
+  She is brought home and married
+  A prince keeps his widowed daughter close
+  She takes a lover in secret
+  The prince discovers them and kills the lover
+  He sends her the heart in a golden cup
+  She poisons herself
+  A friar flatters a vain woman
+  He tells her the Angel Gabriel loves her
+  He visits her disguised as the angel
+  Her kinsmen surprise him
+  He is paraded as a wild man and jailed
+  Three young men elope with three sisters
+  One sister kills her lover out of jealousy
+  Another sister buys her pardon with her body
+  Her lover kills her and flees
+  The last pair die in poverty
+  A prince loves a princess he has never met
+  She is sent to marry another
+  He attacks her ship
+  Her guards kill her
+  He is executed
+  A girl loves her brothers' servant
+  The brothers secretly murder him
+  His ghost shows her the grave
+  She hides his head in a pot of basil
+  The brothers take it and she dies of grief
+  Secret lovers tell each other bad dreams
+  He dies suddenly in her arms
+  She is caught carrying his body
+  She resists the magistrate's advances
+  She is freed and becomes a nun
+  A working girl and her lover meet in a garden
+  He rubs his teeth with a sage leaf and dies
+  She is accused of poisoning him
+  She demonstrates and dies too
+  A toad is found beneath the sage
+  A young man is sent away from his beloved
+  He returns to find her married
+  He lies down beside her and dies
+  She dies at his funeral
+  A knight discovers that his wife's lover is his friend
+  He ambushes and kills the friend
+  He has the heart cooked and served to her
+  She leaps from a window
+  She is buried with her lover
+  A doctor's wife takes a lover
+  He drinks a sleeping draught and seems dead
+  She hides him in a chest
+  Usurers steal the chest
+  He wakes, is taken for a thief, and the maid saves him
+  A brutish youth sees a sleeping maiden
+  Love makes him refined
+  He abducts her at sea and is imprisoned
+  He abducts her again on her wedding day
+  They marry
+  A girl believes her lover dead
+  She sets herself adrift in a boat
+  She lands in a foreign country
+  She finds her lover alive and in royal favor
+  They marry and return home rich
+  Two lovers elope
+  Bandits separate them
+  She shelters in a castle
+  He escapes and finds her
+  They marry
+  A girl begs to sleep on the balcony to hear the nightingale
+  Her lover climbs up to her
+  Her father finds them asleep together
+  He makes the youth marry her on the spot
+  A dying soldier leaves a girl with a friend
+  Two young men fight over her
+  She is recognized as one's sister
+  The other marries her
+  A youth's beloved is taken for the king's household
+  He climbs into the palace to reach her
+  They are caught and bound to a stake
+  An admiral recognizes him
+  The king pardons them and has them married
+  A servant gets his lord's daughter pregnant
+  He is condemned and whipped on the way to the gallows
+  An envoy sees his birthmark and recognizes his lost son
+  The servant is revealed as noble
+  He marries the daughter
+  A youth wastes his fortune on a scornful lady
+  In a pine wood he sees a phantom knight hunt down a woman
+  He learns she is damned for her cruelty to a lover
+  He holds a feast at that spot
+  The lady witnesses the hunt and agrees to marry him
+  A nobleman ruins himself courting a married lady
+  Only his prized falcon remains
+  The widowed lady visits to ask for it for her sick son
+  He has already served it to her for dinner
+  She later marries him
+  A wife entertains a youth while her husband dines out
+  The husband returns early
+  She hides the youth under a hen-coop
+  A donkey steps on his fingers
+  The husband discovers him and turns it to his own advantage
+  A gentleman offers to carry a lady along with a story
+  He tells it badly
+  She asks to be set down
+  A baker shares his fine wine with a nobleman
+  The nobleman sends a servant with a huge flask
+  The baker refuses
+  His retort shows the nobleman his rudeness
+  A bishop makes a crude joke at a lady's expense
+  She answers with a sharp retort
+  The bishop falls silent
+  A cook gives away a crane's leg
+  He claims cranes have only one leg
+  His master takes him to see live cranes
+  The cook's quip turns anger to laughter
+  A lawyer and a painter, both ugly, share a rainy road
+  Each mocks the other's looks
+  The painter gets the last word
+  Young men argue about the noblest family
+  A joker names a family of ugly commoners
+  He argues they are the oldest, made when God was still learning to draw
+  He wins the bet
+  A wife is caught with her lover
+  Adultery is punishable by death
+  She asks the court what she should do with her surplus
+  The court laughs and changes the law
+  A vain girl complains of disagreeable people
+  Her uncle advises her not to look in the mirror
+  Young men taunt a philosopher in a graveyard
+  He says they may say what they like in their own house
+  They realize he has called them dead men
+  A friar promises to show a holy relic
+  Pranksters replace it with coal
+  He claims these are the coals that roasted a saint
+  The crowd believes him
+  A wife signals her lover with a donkey's skull
+  The husband is home unexpectedly
+  The lover knocks
+  She claims it is a ghost
+  She recites an "exorcism" that tells the lover to leave
+  A wife hides her lover in a vat
+  Her husband says he has sold it
+  She says a buyer is inside checking it
+  The husband cleans the vat while she and the lover carry on
+  The husband carries it home for him
+  A friar sleeps with his godson's mother
+  The husband knocks
+  She claims the friar is curing the child of worms
+  The husband thanks him
+  A drunk husband locks his wife out
+  She pretends to throw herself in the well
+  He rushes out
+  She locks him out
+  She shames him before the neighbors
+  A jealous husband dresses as a priest
+  He hears his wife's confession
+  She claims to love a priest
+  He guards the door for the priest
+  Her lover comes in over the roof
+  A lady is with her young lover
+  Her older suitor arrives
+  Her husband returns
+  She sends the suitor out with a drawn sword
+  The husband escorts the youth home
+  A youth enters service to be near a lady
+  She sends her husband to the garden in her clothes
+  She lies with the youth
+  The youth beats the husband as a "test"
+  The husband believes both are loyal
+  A wife ties a thread to her toe for her lover
+  The husband discovers it and chases the lover
+  She puts her maid in her bed
+  The husband beats the maid
+  Her brothers find the wife unharmed and call him mad
+  A wife wants her husband's servant
+  He demands three proofs of her love
+  She carries them out
+  They make love before the husband
+  She convinces him the pear tree is enchanted
+  Two friends agree that the first to die will return
+  One sleeps with a godmother and dies
+  His ghost returns
+  He reports that this sin isn't punished there
+  A wife demands money for her favors
+  Her lover borrows it from her husband
+  He pays her
+  He tells the husband he repaid her
+  A priest leaves his cloak as payment for a woman's favors
+  He borrows her mortar
+  He returns it and asks for the cloak
+  She has to give it back
+  A simpleton hears of a stone that grants invisibility
+  He gathers rocks along the river
+  His friends pretend not to see him
+  His wife sees him and he beats her
+  He blames her for breaking the spell
+  A churchman pursues a widow
+  She agrees to a tryst in the dark
+  She substitutes an ugly maid
+  Her brothers bring the bishop
+  He is caught in bed with the maid
+  A clumsy judge sits on the bench
+  Pranksters crowd around him
+  They pull his breeches down
+  They slip away in the confusion
+  Pranksters steal a simpleton's pig
+  They hold an ordeal to find the thief
+  They give him bitter pills
+  He spits them out and is "proven" guilty
+  They blackmail him
+  A scholar loves a widow who mocks him
+  She leaves him all night in the snow
+  He pretends to help her with a spell
+  He leaves her naked on a tower in the summer sun
+  He is avenged
+  A man sleeps with his friend's wife
+  The friend finds out and enlists her
+  The man is locked in a chest
+  The friend sleeps with the man's wife on top of it
+  The four agree to share
+  A foolish doctor wants to join a secret society
+  Pranksters arrange an initiation
+  One poses as a beast to carry him
+  He is dumped into a cesspit
+  He pays them to keep it quiet
+  A merchant is fleeced by a seductive swindler
+  He returns pretending to bring more goods
+  She lends him money
+  He disappears
+  She is left with barrels of water and tow
+  A lady wants to be rid of two suitors
+  She asks one to lie in a tomb as a corpse
+  She asks the other to carry the corpse out
+  Both fail, and she is free
+  An abbess hears that a nun has a lover
+  She rushes out in the dark
+  She grabs a priest's breeches instead of her veil
+  The nun points them out
+  The abbess relaxes the rules
+  A simpleton's friends say he looks ill
+  They convince him he is pregnant
+  A doctor charges him for a cure
+  He blames his wife
+  A servant gambles away his master's money
+  He chases his master and calls him a thief
+  Peasants seize the master
+  The servant rides off in his clothes
+  A simpleton falls for a girl
+  His friends give him a fake talisman
+  The friends bring his wife
+  She catches him
+  Two travelers stay with an innkeeper
+  One sneaks into the daughter's bed
+  The wife gets into the other traveler's bed by mistake
+  The first traveler brags to the innkeeper
+  The wife smooths things over
+  A husband dreams a wolf will maul his wife
+  She thinks he is plotting
+  She goes to the woods to see
+  A wolf mauls her face
+  A joker tricks a glutton out of a dinner
+  The glutton plans revenge
+  He sends the joker to provoke a brute
+  The joker is beaten
+  Two men seek a king's advice
+  One is told to love
+  The other is told to go to Goose Bridge
+  There he sees a mule beaten into obedience
+  He beats his wife into obedience
+  A priest offers to turn a peasant's wife into a mare
+  The peasant watches the spell
+  The priest attaches the tail
+  The peasant objects
+  The spell is broken
+  A knight thinks the king pays him poorly
+  The king tests him
+  He picks the empty chest
+  The king rewards him anyway
+  A bandit captures an abbot
+  He cures the abbot's stomach
+  The abbot asks to make him his friend
+  The abbot wins him a pardon and a priory
+  A man envies another's generosity
+  He sets out to kill him
+  The intended victim, unrecognized, tells him where to find him
+  He recognizes his victim
+  He is ashamed and becomes a friend
+  A knight loves a married lady
+  She is buried alive
+  He opens the tomb and finds her alive
+  She bears a son in his mother's house
+  He returns them to her husband
+  A lady sets a suitor an impossible task
+  He hires a sorcerer to make a garden bloom in January
+  Her husband tells her to keep her word
+  The suitor releases her
+  The sorcerer waives his fee
+  An old king sees two young sisters
+  He falls in love
+  A counselor shames him
+  He arranges marriages for both
+  A girl falls ill for love of the king
+  A minstrel tells the king
+  He visits and comforts her
+  He arranges her marriage
+  He vows to be her knight
+  A man gives his bride to a friend
+  The bride is angry
+  Years later he is ruined and confesses to a murder to die
+  The friend claims the guilt
+  The real murderer confesses and all are freed
+  A sultan in disguise is honored by a nobleman
+  The nobleman goes on crusade and is captured
+  The sultan recognizes him
+  His wife is about to remarry
+  The sultan sends him home by magic
+  A lord marries a peasant girl
+  He takes away her children and claims to kill them
+  He sends her away and pretends to take a new bride
+  She serves at the wedding
+  He restores her and reveals her children

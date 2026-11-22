@@ -1,6 +1,6 @@
 = Plot Wagon Train
-  Please generate a 200-word summary of a story; Begin by naming and describing the main character and their unique personality and motivation: {|Wagon Train Motivations}; However, the character's motivations must not be stereotypical or dull; After {|Wagon Train Central Conflicts}, but they must overcome an obstacle, {|Wagon Train Obstacles}; Suddenly, there should be an unexpected twist {|Wagon Train Twists} that takes it in a new and exciting direction; Finally, the story should culminate in a dramatic crisis that brings everything to a thrilling conclusion {|Wagon Train Inciting Incidents} so they face {|Wagon Train Dramatic Crisis}; Please be creative and have fun with this writing exercise!
-  Please generate a 200-word summary of a story; Begin by naming and describing the main character and their unique personality and motivation: {|Wagon Train Motivations}; However, the character's motivations must not be stereotypical or dull; After {|Wagon Train Inciting Incidents}, they must strive towards achieving a specific goal of {|Wagon Train Goals}, but they must overcome an obstacle, {|Wagon Train Obstacles}; Suddenly, there should be an unexpected twist {|Wagon Train Twists} that takes it in a new and exciting direction; Finally, the story should culminate in a dramatic crisis that brings everything to a thrilling conclusion {|Wagon Train Dramatic Crisis}; Please be creative and have fun with this writing exercise!
+  Please generate a 200-word summary of a story; Begin by naming and describing the main character and their unique personality and motivation: {|Wagon Train Motivations}; However, the character's motivations must not be stereotypical or dull; After {|Wagon Train Central Conflicts}, but they must overcome an obstacle, {|Wagon Train Obstacles}; Suddenly, there should be an unexpected twist {|Wagon Train Twists} that takes it in a new and exciting direction; Finally, the story should culminate in a dramatic crisis that brings everything to a thrilling conclusion {|Wagon Train Inciting Incidents} so they face {Wagon Train Dramatic Crisis}; Please be creative and have fun with this writing exercise!
+  Please generate a 200-word summary of a story; Begin by naming and describing the main character and their unique personality and motivation: {|Wagon Train Motivations}; However, the character's motivations must not be stereotypical or dull; After {|Wagon Train Inciting Incidents}, they must strive towards achieving a specific goal of {|Wagon Train Goals}, but they must overcome an obstacle, {|Wagon Train Obstacles}; Suddenly, there should be an unexpected twist {|Wagon Train Twists} that takes it in a new and exciting direction; Finally, the story should culminate in a dramatic crisis that brings everything to a thrilling conclusion {Wagon Train Dramatic Crisis}; Please be creative and have fun with this writing exercise!
 = |Wagon Train Inciting Incidents
   A group of settlers are attacked by a band of Native Americans, and they must defend themselves and their wagon train
   One of the wagons breaks down, and the group must decide whether to wait for repairs or leave the wagon behind
@@ -220,8 +220,8 @@
   The wagon train discovers valuable resources, such as gold or fertile land, sparking a conflict over ownership and the group's priorities.
   The wagon train encounters a group of outlaws, leading to a tense standoff and a test of the travelers' courage, cunning, and loyalty to one another.
 = Events Wagon Train
-  {Wagon Train Positive}
-  {Wagon Train Negative}
+  {Events Wagon Train Positive}
+  {Events Wagon Train Negative}
 = Events Wagon Train Positive
   find a new leader
   join up with another party

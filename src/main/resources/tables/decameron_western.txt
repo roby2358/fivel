@@ -1,0 +1,58 @@
+= Decameron Western Character
+  {Western Stock Types} {Decameron Motive}
+
+= Decameron Western Plot
+  Please generate a 200-word summary of a bawdy, comic tale of the Old West in the spirit of the Decameron; The main character is {Decameron Western Character}; Their rival is {Decameron Western Character}; The story turns on this moment: {Decameron beats}; Then, a twist: {Decameron beats}; Finally, it all comes to a head: {Wagon Train Dramatic Crisis}; Keep it rip-roaring, full of trickery and comeuppance, and have fun with this writing exercise!
+  Please generate a 200-word summary of a tale told around a wagon-train campfire, in the manner of the Decameron; The tale is about {Decameron Western Character}, who crosses paths with {Decameron Character}; It begins: {Decameron beats}; Then: {Decameron beats}; It ends with a witty reversal; Have fun with this writing exercise!
+
+= Western Stock Types
+  the wagon master
+  the trail scout
+  the cattle baron
+  the cowhand
+  the trail cook
+  the gunslinger
+  the retired gunfighter
+  the bounty hunter
+  the outlaw
+  the stagecoach robber
+  the cattle rustler
+  the horse thief
+  the town sheriff
+  the deputy
+  the hanging judge
+  the circuit-riding preacher
+  the frontier missionary
+  the saloon keeper
+  the saloon singer
+  the card sharp
+  the snake-oil salesman
+  the traveling dentist
+  the frontier doctor
+  the undertaker
+  the blacksmith
+  the schoolteacher
+  the mail-order bride
+  the homesteader
+  the widow running the ranch
+  the prospector
+  the mining-claim speculator
+  the railroad surveyor
+  the telegraph operator
+  the Pony Express rider
+  the cavalry officer
+  the army deserter
+  the tinker
+  the photographer
+  the dime-novel writer
+  the eastern greenhorn
+  the land swindler
+  the mule skinner
+  the buffalo hunter
+  the trading-post owner
+  the hotel keeper
+  the town drunk
+  the newspaper editor
+  the barber
+  the banker
+  the sharpshooting performer

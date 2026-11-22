@@ -1,0 +1,58 @@
+= Decameron Boring Character
+  {Boring Stock Types} {Decameron Motive}
+
+= Decameron Boring Plot
+  Please generate a 200-word summary of a bawdy, comic tale of modern everyday life in the spirit of the Decameron; The main character is {Decameron Boring Character}; Their rival is {Decameron Boring Character}; It starts when {|Boring Inciting Incidents}; The story turns on this moment, retold in a modern setting: {Decameron beats}; Then, a twist: {Decameron beats}; Finally, it all comes to a head when {|Boring Dramatic Crisis}; Keep it full of trickery and comeuppance, and have fun with this writing exercise!
+  Please generate a 200-word summary of a tale told by neighbors swapping stories over video call during a quarantine, in the manner of the Decameron; The tale is about {Decameron Boring Character}, who crosses paths with {Decameron Character}; It begins: {Decameron beats}; Then: {Decameron beats}; It ends with a witty reversal; Have fun with this writing exercise!
+
+= Boring Stock Types
+  the office manager
+  the IT support tech
+  the accountant
+  the HR rep
+  the middle manager
+  the intern
+  the barista
+  the coffee shop regular
+  the HOA president
+  the neighbor with the leaf blower
+  the substitute teacher
+  the PTA president
+  the dentist
+  the dental hygienist
+  the DMV clerk
+  the insurance adjuster
+  the realtor
+  the landlord
+  the tenant
+  the roommate
+  the mail carrier
+  the delivery driver
+  the grocery cashier
+  the gym regular
+  the yoga instructor
+  the book club host
+  the retiree
+  the dad at the grill
+  the youth soccer coach
+  the crossing guard
+  the librarian
+  the parking enforcement officer
+  the plumber
+  the cable installer
+  the customer service rep
+  the call-center supervisor
+  the conference attendee
+  the wedding planner
+  the best man
+  the mother-in-law
+  the commuter
+  the carpool driver
+  the influencer
+  the podcaster
+  the sales rep
+  the dog walker
+  the cat owner
+  the minivan driver
+  the tax preparer
+  the night-shift security guard

@@ -1,0 +1,58 @@
+= Decameron Gladiator Character
+  {Gladiator Stock Types} {Decameron Motive}
+
+= Decameron Gladiator Plot
+  Please generate a 200-word summary of a bawdy, comic tale of the Roman arena in the spirit of the Decameron; The main character is {Decameron Gladiator Character}; Their rival is {Decameron Gladiator Character}; The story turns on this moment: {Decameron beats}; Then, a twist: {Decameron beats}; Finally, it all comes to a head when {|Gladiator Dramatic Crisis}; Keep it full of trickery and comeuppance, and have fun with this writing exercise!
+  Please generate a 200-word summary of a tale told in the gladiators' barracks on the night before the games, in the manner of the Decameron; The tale is about {Decameron Gladiator Character}, who crosses paths with {Decameron Character}; It begins: {Decameron beats}; Then: {Decameron beats}; It ends with a witty reversal; Have fun with this writing exercise!
+
+= Gladiator Stock Types
+  the gladiator
+  the retired champion
+  the novice fighter
+  the net fighter
+  the owner of the gladiator school
+  the arena doctor
+  the trainer
+  the slave
+  the freedman
+  the senator
+  the senator's wife
+  the emperor
+  the empress
+  the praetorian guard
+  the centurion
+  the legion veteran
+  the barbarian captive
+  the beast handler
+  the lion
+  the bookmaker
+  the gambler on the games
+  the arena announcer
+  the vestal virgin
+  the augur
+  the priest of Mars
+  the tavern keeper
+  the bathhouse attendant
+  the poet
+  the satirist
+  the philosopher
+  the merchant of Ostia
+  the grain dealer
+  the tax collector
+  the wealthy patron
+  the client seeking favors
+  the informer
+  the poisoner
+  the charioteer
+  the female gladiator
+  the masked gladiator
+  the sponsor of the games
+  the mosaic artist
+  the sculptor
+  the street vendor
+  the devoted fan
+  the rival school owner
+  the bodyguard
+  the scribe
+  the courtesan
+  the fortune teller

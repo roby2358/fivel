@@ -1,8 +1,15 @@
 = Decameron Character
-  {Decameron Stock Types} who {Decameron Who Types}
-  {Decameron Stock Types} who {Decameron Who Types} and {Decameron Who Types}
-  {Decameron Stock Types} who {Decameron Who Types} but {Decameron Who Types}
-  {Decameron Stock Types} who {Decameron Who Types} and thus {Decameron Who Types}
+  {Decameron Stock Types} {Decameron Motive}
+
+= Decameron Motive
+  who {Decameron Who Types}
+  who {Decameron Who Types} and {Decameron Who Types}
+  who {Decameron Who Types} but {Decameron Who Types}
+  who {Decameron Who Types} and thus {Decameron Who Types}
+  who {Decameron Who Types} until {Decameron Who Types}
+  who {Decameron Who Types} but not {Decameron Who Types}
+  who {Decameron Who Types} more than {Decameron Who Types}
+  who {Decameron Who Types} less than {Decameron Who Types}
 
 = Decameron stories
   Master Ciappelletto, the worst of men, makes a false deathbed confession so pious that he is venerated as Saint Ciappelletto

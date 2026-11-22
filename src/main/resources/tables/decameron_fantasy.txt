@@ -1,0 +1,58 @@
+= Decameron Fantasy Character
+  {Fantasy Stock Types} {Decameron Motive}
+
+= Decameron Fantasy Plot
+  Please generate a 200-word summary of a bawdy, comic fantasy tale in the spirit of the Decameron, titled {Fantasy Title}; The main character is {Decameron Fantasy Character}; Their rival is {Decameron Fantasy Character}; Everything revolves around a magic item, the {Artifact}; The story turns on this moment: {Decameron beats}; Then, a twist: {Decameron beats}; Finally, it all comes to a head: {|Fantasy Dramatic Crisis}; Keep it full of trickery and comeuppance, and have fun with this writing exercise!
+  Please generate a 200-word summary of a tale told by travelers sheltering in an enchanted castle while a curse ravages the land, in the manner of the Decameron; The tale is about {Decameron Fantasy Character}, who crosses paths with {Decameron Character}; It begins: {Decameron beats}; Then: {Decameron beats}; It ends with a witty reversal; Have fun with this writing exercise!
+
+= Fantasy Stock Types
+  the hedge wizard
+  the court sorcerer
+  the apprentice mage
+  the elf lord
+  the dwarf smith
+  the halfling burglar
+  the troll under the bridge
+  the dragon
+  the knight errant
+  the squire
+  the paladin
+  the witch of the wood
+  the fairy queen
+  the changeling
+  the goblin merchant
+  the orc chieftain
+  the wandering bard
+  the alchemist
+  the oracle
+  the werewolf
+  the vampire count
+  the shapeshifter
+  the ghost knight
+  the talking cat
+  the enchanted frog
+  the sleeping princess
+  the exiled prince
+  the usurper king
+  the dark lord
+  the dark lord's minion
+  the keeper of the crossroads tavern
+  the thieves' guild master
+  the assassin
+  the ranger
+  the druid
+  the giant
+  the ogre
+  the centaur
+  the mermaid
+  the siren
+  the griffin rider
+  the golem
+  the familiar
+  the grail pilgrim
+  the dragon slayer
+  the monster hunter
+  the court jester
+  the high priestess
+  the wandering monk
+  the mimic disguised as a chest

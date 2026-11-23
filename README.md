@@ -14,17 +14,33 @@ to exit Claude Desktop all the way.
 
 # Running
 
+## Setup
+
+Fivel needs Java 21 and sbt. If you have [just](https://github.com/casey/just), this installs both
+into `~/.local/opt` (Linux x64, no sudo; skips anything already installed):
+
+```sh
+just setup
+```
+
+Run `just` to list the other recipes (`test`, `check-tables`, `assembly`).
+
 ## Run as webapp + HTTP server
 
 From the command line
 ```sh
+just up
+```
+
+or, without just,
+```sh
 sbt "runMain yuwakisa.fivel.ServerMain"
 ```
 
-In your browser, open
-    http://localhost:8000
+It prints the URL when it's ready. In your browser, open
+    http://localhost:8925
 
-Note: This also supports streamable HTTP MCP at http://localhost:8000/mcp
+Note: This also supports streamable HTTP MCP at http://localhost:8925/mcp
 
 ## Run as MCP stdio in Claude Desktop
 
@@ -32,7 +48,7 @@ Build the executable jar
 
 ```sh
 cd <your_path>/fivel
-sbt assembly
+just assembly    # or: sbt assembly
 ```
 
 This builds `<your_path>/fivel/target/scala-3.3.6/fivel.jar`

@@ -39,7 +39,8 @@ class ServerRunnerTest extends FunSuite:
       HttpResponse(statusCode, body)
     .tap(_ => connection.disconnect())
 
-  private def choosePort: Int = 8000 // 49152 + Random.nextInt(16384)
+  // Not DefaultPort, so tests can run while `just up` is serving
+  private def choosePort: Int = ServerRunner.DefaultPort + 1 // 49152 + Random.nextInt(16384)
 
   private def runServerTest(routes: Map[String, Class[? <: HttpServlet]])(testFn: Int => Unit): Unit =
     val port = choosePort

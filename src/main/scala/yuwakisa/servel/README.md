@@ -45,7 +45,7 @@ To use the server:
 Example:
 ```scala
 val runner = ServerRunner(
-  port = 8000,
+  port = 8925,
   routes = Map(
     "/hello" -> classOf[HelloWorldServlet],
     "/static/*" -> classOf[StaticContentServlet]

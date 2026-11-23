@@ -14,5 +14,5 @@ object ServerMain:
       "/mcp" -> classOf[McpServlet]
     )
   
-    val runner = new ServerRunner(routes=routes, port=8000)
+    val runner = new ServerRunner(routes=routes, port=ServerRunner.DefaultPort)
     runner.start()

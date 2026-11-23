@@ -6,7 +6,7 @@ import org.eclipse.jetty.ee10.servlet.{FilterHolder, ServletContextHandler, Serv
 import org.eclipse.jetty.server.Server
 
 object ServerRunner:
-  val DefaultPort = 8000
+  val DefaultPort = 8925
 
 class ServerRunner(
   port: Int, 
@@ -60,7 +60,7 @@ class ServerRunner(
 
     // Start the server
     server.start()
-    logger.info(s"Server started on localhost:$port")
+    logger.info(s"Server running at http://localhost:$port/")
 
   def stop(): Unit =
     logger.debug("Forced stop")

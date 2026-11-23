@@ -4,8 +4,6 @@ import jakarta.servlet.http.HttpServlet
 import munit.FunSuite
 
 import java.net.HttpURLConnection
-import java.util.concurrent.Executors
-import scala.concurrent.{ExecutionContext, Future}
 import scala.io.Source
 import scala.language.adhocExtensions
 import scala.util.{Failure, Success, Try, Using}
@@ -47,24 +45,14 @@ class ServerRunnerTest extends FunSuite:
     val port = choosePort
     logger.debug(s"Creating server on port $port")
     
-    val server = new ServerRunner(ServerRunner.DefaultPort, routes)
-    val executionContext = ExecutionContext.fromExecutor(Executors.newSingleThreadExecutor())
-    
+    val server = new ServerRunner(port, routes)
+
     try
-      // Start server in background
-      Future {
-        server.start()
-      }(executionContext)
-      
-      // Wait for server to start
-      Thread.sleep(500)
-      
-      // Run the test
+      // Returns once Jetty is accepting connections
+      server.startServer()
       testFn(port)
     finally
-      // Stop the server
       server.stop()
-      Thread.sleep(500)
 
   test("ServerRunner should register and handle a single route".tag(IntegrationTest)):
     val routes = Map("/hello" -> classOf[HelloWorldServlet])

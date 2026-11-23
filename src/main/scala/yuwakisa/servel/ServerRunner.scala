@@ -21,9 +21,21 @@ class ServerRunner(
 
   private lazy val server = createServer(port)
 
+  /** Starts the server and blocks until Enter is pressed (or forever, if stdin is closed) */
   def start(): Unit =
     ctrlCHook()
+    startServer()
+    logger.info("Press Enter to stop the server")
+    if scala.io.StdIn.readLine() == null then
+      // No console (batch, container, nohup): run until the process is stopped
+      server.join()
+    else
+      logger.info("Server shutdown requested")
+      server.stop()
+      logger.info("Server stopped")
 
+  /** Starts the server and returns once it is accepting connections */
+  def startServer(): Unit =
     // Create a ServletContextHandler with context path "/"
     val context = createContext()
     context.setContextPath("/")
@@ -49,11 +61,6 @@ class ServerRunner(
     // Start the server
     server.start()
     logger.info(s"Server started on localhost:$port")
-    logger.info("Press Enter to stop the server")
-    scala.io.StdIn.readLine()
-    logger.info("Server shutdown requested")
-    server.stop()
-    logger.info("Server stopped")
 
   def stop(): Unit =
     logger.debug("Forced stop")

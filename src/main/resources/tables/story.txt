@@ -297,7 +297,7 @@
   Obligation
   Ambiguity
   Grudge
-= Plot
+= Basic Plots
   Overcoming the monster
   Rags to riches
   The quest

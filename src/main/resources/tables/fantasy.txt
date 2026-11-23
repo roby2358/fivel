@@ -199,9 +199,9 @@
   Save the world from destruction by a powerful villain or dark force
   Save the world from domination by a powerful villain or dark force
   Find and obtain a magical artifact that can be used to defeat an enemy
-  Find and obtain a magical artifact that can be used to overcome {fantasy obstacle}
+  Find and obtain a magical artifact that can be used to overcome {|Fantasy Obstacles}
   Find and obtain a powerful weapon that can be used to defeat an enemy
-  Find and obtain a powerful weapon that can be used to overcome {fantasy obstacle}
+  Find and obtain a powerful weapon that can be used to overcome {|Fantasy Obstacles}
   Discover the truth about a hidden past that will change the course of history
   Discover the truth about a prophecy that will change the course of history
   Discover the truth about a mystery that will change the course of history
@@ -292,7 +292,7 @@
   The realization that a trusted source of information or guidance was actually deceiving him/her
   A moral dilemma that forces him/her to choose between what is right and what is necessary
   The discovery that a trusted item or artifact was a fake or a deception
-  The sudden appearance of a powerful and unexpected obstacle that him/her were not prepared for: {fantasy obstacle}
+  The sudden appearance of a powerful and unexpected obstacle that him/her were not prepared for: {|Fantasy Obstacles}
   The loss or destruction of a critical item or artifact that was essential to his/hers plan
   A sudden and unexpected change in the physical environment, such as a natural disaster or sudden climate shift
   The realization that a long-held belief or assumption was incorrect or misguided

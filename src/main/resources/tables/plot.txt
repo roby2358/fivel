@@ -1,9 +1,9 @@
 = Plot-threat
-  - {plot} : {threat}
+  - {Plot Steps} : {threat}
 = Plot-life-prompt
-  - {plot} : {Life Prompt}
+  - {Plot Steps} : {Life Prompt}
 # https://lukejames7.wordpress.com/scriptwriting/22-steps-notes/
-= Plot
+= Plot Steps
   - Self-revelation, need, and desire
   - Ghost world - history, internal struggle
   - Story world - average day

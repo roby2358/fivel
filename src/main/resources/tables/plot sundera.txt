@@ -13,7 +13,7 @@
   {|Sundera Dramatic Crisis}
   {|Gladiator Dramatic Crisis}
 = |Sundera |Gladiator Twists
-  {Sundera Twists}
+  {|Sundera Twists}
   {|Gladiator Twists}
 
 # "Sundera Fantasy" is a subgenre of fantasy that revolves around a world where
@@ -150,7 +150,7 @@
   he/she is accused of a crime they did not commit, putting them at odds with their allies and the authorities
   he/she discovers that they have been manipulated or deceived by their allies or enemies, forcing them to question their own judgment and motives
   he/she is forced to make a sacrifice or trade-off that could have serious consequences for themselves or their allies
-= Sundera Twists
+= |Sundera Twists
   he/she discovers that their mentor or ally is actually a villain, working against them all along
   A seemingly powerful and dangerous enemy turns out to be a friend or ally in disguise
   he/she discovers that they are actually the chosen one who is destined to save the land

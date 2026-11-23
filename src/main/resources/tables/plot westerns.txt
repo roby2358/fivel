@@ -3,9 +3,9 @@
 = |Western Gladiator Inciting Incidents
   {|Western Inciting Incidents}
   {|Gladiator Inciting Incidents}
-= ||Western Gladiator Motivations
+= |Western Gladiator Motivations
   {|Western Motivations} and {|Gladiator Motivations}
-= |Western |Gladiator Goals
+= |Western Gladiator Goals
   {|Western Goals} and {|Gladiator Goals}
 = |Western Gladiator Obstacles
   {|Western Obstacles} and {|Gladiator Obstacles}

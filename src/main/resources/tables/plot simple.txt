@@ -9,7 +9,7 @@
   {|Simple Goals} and {|Gladiator Goals}
 = |Simple Gladiator Obstacles
   {|Simple Obstacles} and {|Gladiator Obstacles}
-= Simple Gladiator Dramatic Crisis
+= |Simple Gladiator Dramatic Crisis
   {|Simple Dramatic Crisis}
   {|Gladiator Dramatic Crisis}
 = |Simple Gladiator Twists
@@ -31,7 +31,7 @@
   He/she discovers what he/she wants is unobtainable
 = |Simple Twists
   He/She discovers that the thing he/she wants isn't what he/she thought it was
-= |Simple Conflict
+= |Simple Central Conflicts
   He/She wants something that someone else has, so they must try to get it
 = |Simple Dark Secrets
   He/she is doing something they shouldn't

@@ -9,7 +9,7 @@
   {|Stone Age Goals} and {|Gladiator Goals}
 = |Stone Age Gladiator Obstacles
   {|Stone Age Obstacles} and {|Gladiator Obstacles}
-= Stone Age Gladiator Dramatic Crisis
+= |Stone Age Gladiator Dramatic Crisis
   {|Stone Age Dramatic Crisis}
   {|Gladiator Dramatic Crisis}
 = |Stone Age Gladiator Twists

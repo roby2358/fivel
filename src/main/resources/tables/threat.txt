@@ -15,7 +15,7 @@
     - Location
     - Plan
     - Blackmail
-Threat What you have
+= Threat What you have
   - {|have}
     - Jewelry
       - {Medieval Jewelry}
@@ -27,7 +27,7 @@ Threat What you have
       - {Medieval Everyday}
     - Sigil
     - Gems
-Threat Where you are
+= Threat Where you are
   - {|where}
     - 4 Populated
       - Town
@@ -48,14 +48,14 @@ Threat Where you are
       - Waterfall
       - Tower
       - Valley
-Threat Who you are
+= Threat Who you are
   - {|who}
     - Religious Icon
     - Magic
     - Chosen One
     - Royalty
     - Guardian
-Threat What you can do
+= Threat What you can do
   - {|can}
     - Dance
     - Sing
